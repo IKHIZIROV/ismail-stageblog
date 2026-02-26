@@ -11,8 +11,17 @@
       "Ik heb ook mijn Return-account gekregen. De communicatie verloopt via Microsoft Teams en version control gebeurt in Azure DevOps.",
       "Na dag 1 ben ik erg tevreden: ik heb veel nieuwe dingen bijgeleerd en ik merk dat ik veel kan leren van mijn collega's."
     ],
-    "images": ["/images/posts/return-logo.png"],
-    "tags": ["onboarding", "setup", "hono", "react", "postgres", "docker"]
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "onboarding",
+      "setup",
+      "hono",
+      "react",
+      "postgres",
+      "docker"
+    ]
   },
   {
     "id": "2026-02-03",
@@ -26,8 +35,16 @@
       "In de namiddag had ik samen met een andere stagiair een extra introductiemeeting met Enes. We kregen bijkomende bedrijfsinfo die gisteren nog niet aan bod kwam.",
       "Daarna heb ik verder gewerkt aan de loginpagina. Die was nog niet af, dus ik plan om morgen verder te werken aan de uitwerking."
     ],
-    "images": ["/images/posts/return-logo.png"],
-    "tags": ["frontend", "shadcn", "tanstack-router", "login", "stage"]
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "frontend",
+      "shadcn",
+      "tanstack-router",
+      "login",
+      "stage"
+    ]
   },
   {
     "id": "2026-02-04",
@@ -41,8 +58,16 @@
       "Ik heb die opmerkingen verwerkt en daarna Zod-validatie toegevoegd. Daarnaast gebruikte ik TanStack Query met useMutation om loading states proper af te handelen.",
       "Na een nieuwe push kreeg ik opnieuw feedback op de pull request, wat mij helpt om consistenter en kwaliteitsvoller te werken."
     ],
-    "images": ["/images/posts/return-logo.png"],
-    "tags": ["figma", "code-review", "pull-request", "zod", "tanstack-query"]
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "figma",
+      "code-review",
+      "pull-request",
+      "zod",
+      "tanstack-query"
+    ]
   },
   {
     "id": "2026-02-05",
@@ -56,8 +81,16 @@
       "Talha gaf mij ook advies over AI-tools. Hij vroeg welke tools ik gebruik en raadde Cursor AI aan. Ik gebruik momenteel vooral Codex CLI en kreeg extra tips en nuttige links om daar sterker mee te werken.",
       "Ik wil Cursor later nog een kans geven, maar voorlopig focus ik op mijn huidige workflow."
     ],
-    "images": ["/images/posts/return-logo.png"],
-    "tags": ["backend", "database", "api", "feedback", "ai-tools"]
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "backend",
+      "database",
+      "api",
+      "feedback",
+      "ai-tools"
+    ]
   },
   {
     "id": "2026-02-06",
@@ -71,8 +104,16 @@
       "In de namiddag werkten we verder tot 15u. Daarna volgde de monthly meeting, die telkens op de laatste vrijdag van de maand plaatsvindt. We bespraken belangrijke bedrijfsupdates en deden een kort spel om elkaar beter te leren kennen.",
       "Na de monthly sloten we de dag af met pizza en een teammoment met PS5. Een leuke afsluiter van een productieve eerste stageweek."
     ],
-    "images": ["/images/posts/ps5.jpeg"],
-    "tags": ["weekly", "monthly", "dashboard", "team", "communicatie"]
+    "images": [
+      "/images/posts/ps5.jpeg"
+    ],
+    "tags": [
+      "weekly",
+      "monthly",
+      "dashboard",
+      "team",
+      "communicatie"
+    ]
   },
   {
     "id": "2026-02-09",
@@ -85,8 +126,15 @@
       "Daardoor heb ik de tijd gebruikt om mijn bestaande code verder te verfijnen en extra details af te werken.",
       "Hoewel het minder spectaculair was, was dit een nuttige dag om kwaliteit te verbeteren en code netter af te ronden."
     ],
-    "images": ["/images/posts/return-logo.png"],
-    "tags": ["ihh", "azure-devops", "refactoring", "kwaliteit"]
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "azure-devops",
+      "refactoring",
+      "kwaliteit"
+    ]
   },
   {
     "id": "2026-02-10",
@@ -100,8 +148,16 @@
       "Met die extra uitleg kon ik opnieuw vlot verderwerken.",
       "Ik heb daarna gewerkt aan de general donations en mockupdata vervangen door realistische testdata door zelf fake donaties toe te voegen."
     ],
-    "images": ["/images/posts/return-logo.png"],
-    "tags": ["ihh", "meeting", "donations", "data", "workflow"]
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "meeting",
+      "donations",
+      "data",
+      "workflow"
+    ]
   },
   {
     "id": "2026-02-11",
@@ -113,8 +169,15 @@
       "Ik had dit vooraf met Mucahid afgestemd, omdat ik deelnam aan de Vlaamse programmeerwedstrijd in Hasselt.",
       "De dag eindigde bijzonder goed: ik behaalde de eerste plaats."
     ],
-    "images": ["/images/posts/cert.png"],
-    "tags": ["afwezig", "programmeerwedstrijd", "hasselt", "prestatie"]
+    "images": [
+      "/images/posts/cert.png"
+    ],
+    "tags": [
+      "afwezig",
+      "programmeerwedstrijd",
+      "hasselt",
+      "prestatie"
+    ]
   },
   {
     "id": "2026-02-12",
@@ -127,7 +190,215 @@
       "Voor de rest verliep de dag rustig en kon ik vooral gefocust verderwerken.",
       "Ik zou normaal ook een introductie krijgen over Microsoft Power Platform, maar die sessie is uitgesteld naar waarschijnlijk volgende week."
     ],
-    "images": ["/images/posts/return-logo.png"],
-    "tags": ["ihh", "power-platform", "planning", "kantoor"]
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "power-platform",
+      "planning",
+      "kantoor"
+    ]
+  },
+  {
+    "id": "2026-02-13",
+    "title": "Weekly, AI-overleg en traktatie op vrijdag",
+    "date": "vrijdag 13 februari 2026",
+    "excerpt": "Verder gewerkt aan IHH, de weekly meeting gedaan en samen gepraat over AI-tools en vibecoding.",
+    "content": [
+      "Vandaag heb ik zoals gewoonlijk verder gewerkt aan IHH.",
+      "We hadden onze weekly meeting waarin iedereen kort vertelde waar hij mee bezig was en hoe de week verlopen is.",
+      "Daarna hadden we nog een extra overleg over AI en vibecoding: welke tools iedereen gebruikt en of we een abonnement gaan voorzien voor werknemers.",
+      "De dag verliep verder rustig en productief.",
+      "Leuke afsluiter: een collega trakteerde ons op chicken wings en frieten."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "weekly",
+      "ai",
+      "vibecoding",
+      "team"
+    ]
+  },
+  {
+    "id": "2026-02-16",
+    "title": "Start met Qurban Management en eerste Power Platform-les",
+    "date": "maandag 16 februari 2026",
+    "excerpt": "Nieuwe focus op Qurban Management en een praktische introductie in Power Platform met eigen environment en solution.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan IHH en ben ik gestart met het tabblad van Qurban Management.",
+      "Ik pak dit stap voor stap aan zodat de flow logisch blijft.",
+      "Samen met de andere stagiair kreeg ik een uur les van Mucahid over Power Platform.",
+      "We kregen uitleg over environments, maakten onze eigen environment en daarna ook een eigen solution.",
+      "We hebben al tabellen en kolommen aangemaakt, maar de sessie werd onderbroken door bezoek. Morgen gaan we verder."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "qurban",
+      "power-platform",
+      "learning"
+    ]
+  },
+  {
+    "id": "2026-02-17",
+    "title": "Tabs en routes opgezet + verder met forms en views",
+    "date": "dinsdag 17 februari 2026",
+    "excerpt": "Frontendstructuur verder uitgewerkt en tijdens de les geleerd hoe forms en views in Power Platform werken.",
+    "content": [
+      "Vandaag heb ik gewerkt aan het UI-gedeelte van IHH.",
+      "Ik heb de tabs en routes aangemaakt en alles correct aan elkaar gewired.",
+      "Later hadden we opnieuw een sessie met Mucahid over Power Platform.",
+      "Hij legde uit wat forms en views zijn en we moesten dat ook zelf oefenen.",
+      "Daarbij gebruikten we de kolommen die we in de vorige les hadden aangemaakt."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "ui",
+      "routing",
+      "power-platform",
+      "forms"
+    ]
+  },
+  {
+    "id": "2026-02-18",
+    "title": "Even vastgelopen, daarna weer vooruit",
+    "date": "woensdag 18 februari 2026",
+    "excerpt": "Met hulp van een snel uitgewerkt voorbeeldproject kon ik mijn IHH-flow terug vlot oppakken.",
+    "content": [
+      "Vandaag zat ik even vast op een deel van IHH.",
+      "Mucahid herinnerde mij aan een voorbeeldproject dat hij snel had gemaakt met Cursor AI.",
+      "Daaruit kon ik een paar nuttige patronen halen en toepassen in mijn eigen project.",
+      "Tijdens de Power Platform-les hebben we ook gezien hoe je een app publiceert en meteen bekijkt.",
+      "Ik was eerlijk gezegd verbaasd hoe snel je met Power Platform iets werkend hebt, zeker vergeleken met alles van scratch coderen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "blocking",
+      "power-platform",
+      "cursor",
+      "publishing"
+    ]
+  },
+  {
+    "id": "2026-02-19",
+    "title": "Web resources en logica per rol",
+    "date": "donderdag 19 februari 2026",
+    "excerpt": "Tijdens de les ontdekt waarom rolafhankelijke velden fout zaten, en geleerd hoe dit op te lossen met web resources.",
+    "content": [
+      "Vandaag bekeken we de app van gisteren en zagen we dat sommige zaken nog niet klopten.",
+      "Bijvoorbeeld: als je in een form een rol kiest (lid of vrijwilliger), verschenen beide velden tegelijk, en dat is niet de bedoeling.",
+      "De oplossing is om met web resources te werken zodat alleen de juiste velden zichtbaar worden op basis van de gekozen rol.",
+      "Concreet: een JavaScript-bestand maken in Visual Studio en uploaden in Power Platform.",
+      "Voor de rest van de dag heb ik verder gewerkt aan IHH."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "power-platform",
+      "web-resources",
+      "javascript",
+      "forms"
+    ]
+  },
+  {
+    "id": "2026-02-20",
+    "title": "Weekly update en bijna klaar met de pagina's",
+    "date": "vrijdag 20 februari 2026",
+    "excerpt": "Tijdens de weekly gedeeld dat de pagina's bijna af zijn en dat de focus nu verschuift naar achterliggende logica.",
+    "content": [
+      "Vandaag was het vrijdag, dus opnieuw tijd voor de weekly meeting.",
+      "We hebben samen besproken wat iedereen deze week gedaan heeft.",
+      "Ik heb gedeeld dat ik bijna klaar ben met alle pagina's en dat ik daarna vooral de achterliggende logica verder moet uitwerken.",
+      "Ik kreeg ook een paar vragen van collega's en van een andere stagiair, wat een goeie check was op mijn keuzes.",
+      "Na de meeting heb ik verder gewerkt aan IHH."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "weekly",
+      "planning",
+      "frontend",
+      "logic"
+    ]
+  },
+  {
+    "id": "2026-02-23",
+    "title": "Taken op in DevOps, toch blijven bouwen",
+    "date": "maandag 23 februari 2026",
+    "excerpt": "Ook zonder nieuwe taken bleef ik productief met kleine verbeteringen en het plannen van de Qurban-flow.",
+    "content": [
+      "Vandaag waren mijn taken in DevOps op en had ik nog geen echte feedback op mijn open pull requests.",
+      "Toch ben ik verder blijven werken aan IHH.",
+      "Ik heb kleine verbeteringen gedaan waar ik kon en tegelijk verder nagedacht over de flow van de Qurban Management-pagina.",
+      "Zo bleef de dag nuttig, ook zonder nieuwe tickets."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "azure-devops",
+      "qurban",
+      "planning"
+    ]
+  },
+  {
+    "id": "2026-02-24",
+    "title": "Feedback verwerkt en Qurban-flow verder uitgewerkt",
+    "date": "dinsdag 24 februari 2026",
+    "excerpt": "Verder gebouwd aan Qurban Management en opmerkingen uit een oudere pull request meteen verwerkt.",
+    "content": [
+      "Vandaag heb ik de flow van de Qurban Management-pagina verder uitgewerkt.",
+      "Er is nog werk aan, maar de basis wordt duidelijker.",
+      "Ik kreeg ook feedback op een pull request van vorige week.",
+      "Er waren een paar opmerkingen, dus die heb ik meteen gefixt.",
+      "Voor de rest heb ik verder gewerkt aan IHH."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "qurban",
+      "pull-request",
+      "feedback"
+    ]
+  },
+  {
+    "id": "2026-02-25",
+    "title": "Thuiswerkdag met goede focus",
+    "date": "woensdag 25 februari 2026",
+    "excerpt": "Van thuis uit gewerkt en veel vooruitgang geboekt op het Qurban-gedeelte.",
+    "content": [
+      "Vandaag mocht ik van thuis uit werken.",
+      "Het was een rustige en gefocuste werkdag waarin ik echt veel heb kunnen afwerken.",
+      "Ik kon me beter concentreren en heb grote stappen gezet in het Qurban-gedeelte van IHH.",
+      "Zeker een productieve dag."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "thuiswerk",
+      "qurban",
+      "focus"
+    ]
   }
 ]
