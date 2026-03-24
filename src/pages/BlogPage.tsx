@@ -41,6 +41,20 @@ const WEEKLY_RECAPS: Record<string, string[]> = {
     'Tegelijk bleef ik afstemmen met Mucahid over de timing van IHH. Omdat de deadline dichterbij komt, is de focus nu: Qurban volledig afwerken en daarna strak doorpakken op de resterende logica.',
     'De week sloot af met mijn eerste intervisiemoment op school, waar ik met medestudenten en mijn stagebegeleider terugblikte op de eerste vier stageweken. Het was interessant om ervaringen te vergelijken en nieuwe inzichten mee te nemen.',
   ],
+  '2026-03-02': [
+    'Week 5 was inhoudelijk rustiger, maar daarom niet nutteloos. Ik heb vooral verder gewerkt aan IHH en meerdere kleine stukjes opgeschoond, verbeterd en consistenter gemaakt.',
+    'Er zaten geen grote nieuwe features of opvallende meetings in deze week, waardoor de focus vooral lag op rustig doorwerken en details afwerken.',
+    'Halverwege de week was ik een dag afwezig omdat ik met vrienden naar Moving Forward in Antwerp Expo ging. Dat was interessant omdat ik daar andere bedrijven leerde kennen en al wat kon rondkijken naar opportuniteiten voor later.',
+    'Na die onderbreking heb ik de draad gewoon weer opgepikt en verder gedaan waar ik gebleven was.',
+    'Het was dus vooral een week van gestage vooruitgang: minder grote momenten, maar wel nuttig om het project verder te verfijnen.',
+  ],
+  '2026-03-09': [
+    'Week 6 verliep opnieuw rustig en draaide bijna volledig rond verder bouwen aan IHH.',
+    'Deze week voelde meer als een lange reeks gefocuste werkdagen dan als een week vol meetings of grote gebeurtenissen, maar dat had ook zijn voordelen.',
+    'Ik kon veel langer in hetzelfde werkritme blijven en zo kleine verbeteringen, afwerkingen en openstaande zaken stap voor stap aanpakken.',
+    'Hoewel er inhoudelijk minder “grote” updates waren, merkte ik wel dat het project stabiel vooruitging.',
+    'Dat maakte deze week minder opvallend, maar wel nuttig: gewoon consequent blijven werken en het project stukje bij beetje dichter bij afwerking brengen.',
+  ],
 }
 
 function parsePostIdToDate(id: string) {
