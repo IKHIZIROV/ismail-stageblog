@@ -52,8 +52,22 @@ const WEEKLY_RECAPS: Record<string, string[]> = {
     'Week 6 verliep opnieuw rustig en draaide bijna volledig rond verder bouwen aan IHH.',
     'Deze week voelde meer als een lange reeks gefocuste werkdagen dan als een week vol meetings of grote gebeurtenissen, maar dat had ook zijn voordelen.',
     'Ik kon veel langer in hetzelfde werkritme blijven en zo kleine verbeteringen, afwerkingen en openstaande zaken stap voor stap aanpakken.',
-    'Hoewel er inhoudelijk minder “grote” updates waren, merkte ik wel dat het project stabiel vooruitging.',
+    'Hoewel er inhoudelijk minder "grote" updates waren, merkte ik wel dat het project stabiel vooruitging.',
     'Dat maakte deze week minder opvallend, maar wel nuttig: gewoon consequent blijven werken en het project stukje bij beetje dichter bij afwerking brengen.',
+  ],
+  '2026-03-16': [
+    'Week 7 draaide opnieuw volledig rond IHH, maar deze keer met heel concrete feedback van Mucahid die het project eens grondig bekeek.',
+    'Ik kreeg extra punten mee zoals nieuwe pagina\'s en een mailfeature, waardoor het project weer een stuk realistischer en completer werd. Voor dat mailgedeelte heb ik met Resend gewerkt, wat ook technisch interessant was.',
+    'De rest van de week stond vooral in het teken van die nieuwe feedback verwerken, verder bouwen en zorgen dat alles proper in de bestaande flow paste.',
+    'Het was geen week vol grote meetings, maar wel eentje waarin het project inhoudelijk sterker werd door gerichte verbeteringen.',
+    'Je voelde duidelijk dat de focus steeds meer verschoof van "iets bouwen" naar "iets degelijk afwerken".',
+  ],
+  '2026-03-23': [
+    'Week 8 was een drukke en belangrijke week voor IHH, vooral omdat er meerdere feedbackmomenten en evaluaties samenkwamen.',
+    'Het begon met een check-in van Mucahid over de status van het project, gevolgd door een demo waarin veel feedback en nieuwe todo\'s naar boven kwamen.',
+    'Na die demo heb ik gericht gewerkt aan de belangrijkste opmerkingen, zoals de donor details-pagina en andere openstaande punten die snel aangepakt moesten worden.',
+    'Tussendoor waren er ook bredere momenten buiten het project zelf: een teamlunch, voorbereiding op Power Automate, mijn tussentijdse evaluatie en de monthly connect met uitleg over Odoo.',
+    'Deze week voelde intens, maar ook heel nuttig. Er kwam veel tegelijk op mij af, maar net daardoor kreeg ik een duidelijker beeld van wat nog moet gebeuren en waar ik al goed sta.',
   ],
 }
 
@@ -136,9 +150,8 @@ const weekGroups = posts.reduce<WeekGroup[]>((groups, post) => {
   return groups
 }, [])
 
-const stageStartWeek = posts.length > 0
-  ? getWeekStart(parsePostIdToDate(posts[posts.length - 1].id))
-  : new Date()
+const stageStartWeek =
+  posts.length > 0 ? getWeekStart(parsePostIdToDate(posts[posts.length - 1].id)) : new Date()
 
 function getWeekNumber(weekId: string): number {
   const weekDate = parsePostIdToDate(weekId)
@@ -146,7 +159,6 @@ function getWeekNumber(weekId: string): number {
   return Math.floor(diffMs / (7 * 24 * 60 * 60 * 1000)) + 1
 }
 
-/** Bepaalt het dagnummer van een post (dag 1 = eerste stagedag). Posts staan op datum aflopend. */
 function getDayNumber(postId: string): number {
   const index = posts.findIndex((p) => p.id === postId)
   return index === -1 ? 1 : posts.length - index
@@ -187,11 +199,7 @@ function BlogPage() {
 
             <div className="mx-auto w-full max-w-4xl space-y-10 sm:space-y-12 xl:max-w-none">
               {weekGroups.map((group) => (
-                <section
-                  key={group.id}
-                  id={`week-${group.id}`}
-                  className="space-y-6 scroll-mt-24"
-                >
+                <section key={group.id} id={`week-${group.id}`} className="space-y-6 scroll-mt-24">
                   <header className="rounded-xl border border-slate-200 bg-slate-100 px-4 py-3">
                     <h3 className="text-xl font-semibold text-brand-navy">{group.title}</h3>
                   </header>
@@ -231,7 +239,7 @@ function BlogPage() {
                               </span>
                             </div>
                             {hasCustomImage && (
-                              <div className="relative flex-1 min-w-0 overflow-hidden rounded-r-2xl bg-white pr-0">
+                              <div className="relative min-w-0 flex-1 overflow-hidden rounded-r-2xl bg-white pr-0">
                                 <img
                                   src={customImages[0]}
                                   alt=""

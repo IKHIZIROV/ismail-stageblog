@@ -655,5 +655,227 @@
       "vooruitgang",
       "weekafsluiting"
     ]
+  },
+  {
+    "id": "2026-03-16",
+    "title": "Feedback van Mucahid en nieuwe mailfeature",
+    "date": "maandag 16 maart 2026",
+    "excerpt": "Mucahid bekeek mijn IHH-project, was tevreden in het algemeen en gaf nieuwe punten mee zoals extra pagina's en mailfunctionaliteit.",
+    "content": [
+      "Vandaag heeft Mucahid mijn project eens goed bekeken.",
+      "In het algemeen was hij tevreden over de vooruitgang, maar hij gaf wel nog een aantal concrete punten mee die aangepast moesten worden.",
+      "Ik moest onder andere nieuwe pagina's voorzien en ook een feature uitwerken waarbij mails verstuurd worden wanneer je op een knop klikt.",
+      "Voor dat stuk heb ik de library Resend gebruikt. Dat was weer iets nieuws om uit te proberen, maar wel interessant omdat het meteen een realistischer feature maakte.",
+      "Het voelde aan als een dag waarop het project weer een stuk concreter werd."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "feedback",
+      "resend",
+      "mail",
+      "features"
+    ]
+  },
+  {
+    "id": "2026-03-17",
+    "title": "Nieuwe pagina's uitwerken en voortbouwen",
+    "date": "dinsdag 17 maart 2026",
+    "excerpt": "Verder gewerkt aan de extra pagina's en de nieuwe punten die uit de review van gisteren kwamen.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan de punten die Mucahid gisteren had meegegeven.",
+      "Ik ben gestart met het uitwerken van een paar nieuwe pagina's zodat de flow van IHH vollediger werd.",
+      "Daarnaast heb ik ook verder gebouwd aan de mailfunctionaliteit en gekeken hoe alles netjes in het project paste.",
+      "Het was vooral een dag van rustig doorwerken, maar wel met duidelijke richting dankzij de feedback van gisteren."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "pages",
+      "mail",
+      "afwerking"
+    ]
+  },
+  {
+    "id": "2026-03-18",
+    "title": "Zelfde focus, maar stap voor stap beter",
+    "date": "woensdag 18 maart 2026",
+    "excerpt": "Verdergebouwd op dezelfde onderdelen van IHH, met aandacht voor nette integratie en kleine verbeteringen.",
+    "content": [
+      "Vandaag heb ik verder gedaan op hetzelfde spoor als de voorbije dagen.",
+      "Ik was nog bezig met de nieuwe pagina's en de extra features die erbij gekomen waren.",
+      "Er gebeurde niets heel uitzonderlijks, maar ik merkte wel dat alles stap voor stap beter begon samen te hangen.",
+      "Zo'n dag is misschien niet spectaculair, maar wel nodig om geen losse eindjes te laten liggen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "details",
+      "integratie",
+      "focus"
+    ]
+  },
+  {
+    "id": "2026-03-19",
+    "title": "Verder verfijnen richting demo",
+    "date": "donderdag 19 maart 2026",
+    "excerpt": "Vandaag vooral verder gewerkt aan IHH en geprobeerd om de nieuwe onderdelen zo proper mogelijk af te ronden.",
+    "content": [
+      "Vandaag heb ik opnieuw verder gewerkt aan IHH.",
+      "Ik zat nog altijd in dezelfde flow: pagina's verder uitwerken, nieuwe features testen en kleine dingen verbeteren waar nodig.",
+      "Omdat het project stilaan richting een nieuw feedbackmoment ging, probeerde ik alles zo proper mogelijk te zetten.",
+      "De dag verliep rustig, maar gaf wel het gevoel dat ik opnieuw een paar nuttige stappen dichter bij afwerking zat."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "verfijning",
+      "demo",
+      "vooruitgang"
+    ]
+  },
+  {
+    "id": "2026-03-20",
+    "title": "Week afsluiten met gestage progressie",
+    "date": "vrijdag 20 maart 2026",
+    "excerpt": "De week afgesloten met verder werk aan IHH en het gevoel dat de extra feedbackpunten stilaan goed verwerkt raken.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan IHH en de week rustig afgesloten.",
+      "Het grootste verschil met vorige weken was dat ik nu meer bezig was met concrete verbeterpunten dan met volledig nieuwe schermen opzetten.",
+      "Daardoor voelde deze week heel productief, ook al was ze minder zichtbaar spectaculair.",
+      "Ik had op het einde van de dag wel het gevoel dat het project opnieuw een pak steviger stond."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "weekly",
+      "afwerking",
+      "progressie"
+    ]
+  },
+  {
+    "id": "2026-03-23",
+    "title": "Voorbereiden op de demo en samen eten",
+    "date": "maandag 23 maart 2026",
+    "excerpt": "Mucahid vroeg naar de status van IHH, er werd een demo ingepland en in de middag gingen we met het team eten bij Liva Kebab.",
+    "content": [
+      "Vandaag vroeg Mucahid mij opnieuw hoe ver het IHH-project stond.",
+      "Ik zei dat het bijna af was, maar dat ik nog wel een paar vragen had. Daarom stelde hij voor om morgen samen te zitten om de status van het project te bespreken.",
+      "Daardoor heb ik vandaag nog snel een aantal kleine aanpassingen gedaan zodat alles klaar zou staan voor de demo.",
+      "In de middag gingen we ook met alle collega's eten bij Liva Kebab. Dat was een traktatie van de werkgevers omdat we de laatste tijd hard gewerkt hadden.",
+      "Het was dus een mix van werkdruk en een leuke teammiddag."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "demo",
+      "planning",
+      "team",
+      "lunch"
+    ]
+  },
+  {
+    "id": "2026-03-24",
+    "title": "Demodag met veel feedback",
+    "date": "dinsdag 24 maart 2026",
+    "excerpt": "Samen met Mucahid en Efekan een demo gedaan van IHH en daar een grote lijst met feedback en todo's uit gehaald.",
+    "content": [
+      "Vandaag was het de dag van de demo met Mucahid.",
+      "We zaten samen in de meetingzaal en Efekan kwam er ook bij om mee te testen en commentaar te geven.",
+      "De demo ging in het algemeen goed en Mucahid was zeker niet ontevreden, maar er kwamen wel nog veel valkuilen en aanpassingen naar boven.",
+      "Ik merkte zelf ook dat er nog een paar dingen ontbraken. Op het einde van de meeting had ik een heel document vol todo's en feedback.",
+      "Mucahid stelde voor om binnen twee dagen samen te zitten met de klant. Ik heb gezegd dat ik waarschijnlijk nog niet alles klaar ging hebben, maar dat was volgens hem geen probleem."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "demo",
+      "feedback",
+      "todos",
+      "meeting"
+    ]
+  },
+  {
+    "id": "2026-03-25",
+    "title": "Rustiger kantoor, veel werk verzet",
+    "date": "woensdag 25 maart 2026",
+    "excerpt": "Met minder volk op kantoor goed kunnen doorwerken aan de feedback, vooral aan de donor details-pagina.",
+    "content": [
+      "Vandaag waren er weinig mensen op kantoor, wat meestal zo is op woensdag.",
+      "Een paar seniors waren wel aanwezig en we hebben tussendoor wat gepraat over IT, carrières en ook gewoon het leven in het algemeen. Dat was eigenlijk nog best waardevol.",
+      "Later op de dag heb ik verder gewerkt aan de todo's van gisteren.",
+      "Vooral de donor details-pagina kreeg veel aandacht, omdat dat een van de belangrijkere feedbackpunten was.",
+      "Ik heb die pagina afgewerkt en daarnaast nog extra opmerkingen kunnen verwerken."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "donor-details",
+      "feedback",
+      "kantoor",
+      "advies"
+    ]
+  },
+  {
+    "id": "2026-03-26",
+    "title": "Drukke dag en voorbereiding op Power Automate",
+    "date": "donderdag 26 maart 2026",
+    "excerpt": "Veel todo's afgewerkt op IHH en tegelijk de vraag gekregen om tegen volgende week iets voor te bereiden rond Power Automate.",
+    "content": [
+      "Vandaag heb ik opnieuw verder gewerkt aan de IHH-todo's en het was een drukke dag.",
+      "Ik heb veel kunnen afwerken, wat goed uitkwam omdat er nog altijd veel feedback open stond van de demo.",
+      "De meeting met de klant ging uiteindelijk toch niet door. Waarschijnlijk had Mucahid nog andere zaken die voorgingen.",
+      "Daarnaast vroeg Mucahid ons om tegen volgende week al eens te bekijken wat Power Automate juist is en wat je ermee kan doen, omdat hij ons daar opnieuw opleiding over gaat geven.",
+      "Dat wordt dus weer een nieuw stukje bijleren naast het gewone projectwerk."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "todos",
+      "power-automate",
+      "planning",
+      "drukke-dag"
+    ]
+  },
+  {
+    "id": "2026-03-27",
+    "title": "Drukke vrijdag met evaluatie, weekly en monthly connect",
+    "date": "vrijdag 27 maart 2026",
+    "excerpt": "Een volle vrijdag met een tussentijdse evaluatie, de weekly meeting en later ook de monthly connect met uitleg over Odoo.",
+    "content": [
+      "Vandaag was het echt druk op kantoor. Bijna iedereen was aanwezig en je voelde dat het kantoor eigenlijk net iets te klein werd voor zoveel volk.",
+      "Om 10 uur kwam mijn stagebegeleider langs voor het tussentijdse evaluatiemoment. Dat ging vlot en ik kreeg nog extra feedback van zowel mijn stagebegeleider als mijn mentor.",
+      "Daarna hadden we om 10u50 onze weekly meeting, die zoals gewoonlijk vlot verliep.",
+      "Later op de dag, om 15 uur, hadden we ook nog onze monthly connect meeting. Daar werden een paar algemene punten besproken en ook de nieuwe partnership met Odoo kwam aan bod.",
+      "Ze gaven uitleg over hoe Odoo werkt en waar het gebruikt wordt. Het was een drukke maar interessante dag waar ik opnieuw veel uit heb meegenomen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "weekly",
+      "monthly",
+      "evaluatie",
+      "odoo",
+      "kantoor"
+    ]
   }
 ]
