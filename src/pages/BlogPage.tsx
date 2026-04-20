@@ -69,6 +69,20 @@ const WEEKLY_RECAPS: Record<string, string[]> = {
     'Tussendoor waren er ook bredere momenten buiten het project zelf: een teamlunch, voorbereiding op Power Automate, mijn tussentijdse evaluatie en de monthly connect met uitleg over Odoo.',
     'Deze week voelde intens, maar ook heel nuttig. Er kwam veel tegelijk op mij af, maar net daardoor kreeg ik een duidelijker beeld van wat nog moet gebeuren en waar ik al goed sta.',
   ],
+  '2026-03-30': [
+    'Week 9 voelde als een heel belangrijke week voor IHH, omdat het project nu echt meer naar buiten begon te komen.',
+    'Ik heb eerst een demo voorbereid voor de verantwoordelijke van IHH, tussendoor nog een klantofferte nagekeken met foute berekeningen, en daarna de applicatie tijdelijk gehost zodat de demo vlot kon doorgaan.',
+    'De meeting zelf verliep sterk: de klant was tevreden, er kwam bruikbare feedback uit, en tegelijk werd het project ook technisch steeds serieuzer door de discussies rond hosting en deployment.',
+    'Later in de week heb ik IHH eerst op Vercel en Neon gezet en daarna opnieuw moeten verhuizen naar Railway, waar uiteindelijk de testomgeving live stond op een eigen domein.',
+    'Daarnaast bleef ook de Power Platform-opleiding verderlopen met Power Automate, web resources en de eerste theoretische introducties rond plugins. Het was dus een week met veel context switches, maar wel één waar ik veel van heb geleerd.',
+  ],
+  '2026-04-06': [
+    'Week 10 begon rustig met Paasmaandag, maar werd daarna meteen een week van nieuwe technologie en nieuwe klanten.',
+    'Op IHH verwerkte ik nog extra testfeedback, zoals nieuwe velden voor general donations, en tegelijk leerde ik via Talha steeds meer over plugins, XrmToolBox en early-bound werken.',
+    'Daarna kwam er meteen een nieuwe uitdaging bij: mijn eerste echte plugin-opdracht voor Universiteit Antwerpen. Dat ging nog niet vlot, omdat ik tegelijk moest zoeken naar de juiste repo, de juiste binding-aanpak en de nodige toegangen.',
+    'Alsof dat nog niet genoeg was, werd ik daarna ook toegewezen aan een nieuwe klant, Familiehulp, waar ik twee dagen per week plugins zal bouwen.',
+    'Deze week voelde dus als een echte overgangsweek: IHH liep nog door, maar tegelijk begon ik al duidelijk de overstap te maken naar een nieuwe fase met meer pluginwerk en meerdere klanten.',
+  ],
 }
 
 function parsePostIdToDate(id: string) {

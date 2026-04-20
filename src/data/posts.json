@@ -877,5 +877,227 @@
       "odoo",
       "kantoor"
     ]
+  },
+  {
+    "id": "2026-03-30",
+    "title": "Demo voorbereiden voor IHH",
+    "date": "maandag 30 maart 2026",
+    "excerpt": "Verder gewerkt aan IHH en mij voorbereid op een demo voor een verantwoordelijke van IHH die morgen langskomt.",
+    "content": [
+      "Vandaag was een toffe dag. Ik was verder aan het werken aan het IHH-project toen Mucahid mij vertelde dat we morgen een meeting zouden hebben met een verantwoordelijke van IHH.",
+      "Ik ga dan een demo moeten geven van mijn werk, dus ik ben na de middag extra aandachtig beginnen voorbereiden.",
+      "We zijn vandaag ook nog eens naar restaurant Liva gegaan om te eten. Mucahid en Enes hadden ons weer getrakteerd, wat altijd leuk meegenomen is.",
+      "Ik heb daarnaast ook al gekeken naar hosting om de demo morgen vlotter te laten verlopen. Alleen was er nog altijd discussie over welke hosting uiteindelijk gebruikt zou worden."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "demo",
+      "voorbereiding",
+      "hosting",
+      "team"
+    ]
+  },
+  {
+    "id": "2026-03-31",
+    "title": "Sterke demo voor IHH en eerste hosting op Render",
+    "date": "dinsdag 31 maart 2026",
+    "excerpt": "Een drukke dag met klantencijfers corrigeren, demo voorbereiden, IHH hosten op Render en daarna een geslaagde meeting met de klant.",
+    "content": [
+      "Vanmorgen kreeg ik van Mucahid eerst nog een andere taak: ik moest een mail van een klant bekijken waarin een offerte was teruggestuurd omdat sommige berekeningen fout waren. Ik heb dat volledig doorgenomen en de nodige verbeteringen uitgewerkt.",
+      "Daarna heb ik mij nog wat verder voorbereid op de demo van IHH en kleine aanpassingen gedaan. Omdat er nog altijd geen definitieve keuze was gemaakt rond hosting, heb ik het project zelf tijdelijk op Render gezet zodat de demo vlot kon verlopen.",
+      "Om 13 uur kwam de verantwoordelijke van IHH langs voor de meeting. Zij bracht ook heel wat lekkers mee, wat de sfeer meteen aangenaam maakte.",
+      "Ik heb mijn demo gegeven in aanwezigheid van Mucahid en Enes, en die verliep heel goed. De klant was tevreden en er kwam vooral nog een kleine extra vraag bij: bij het aanmaken van een donatie moet je kunnen kiezen tussen particulier en bedrijf.",
+      "Na de meeting kregen Efekan en ik nog les van Mucahid over Power Apps. We hadden niet veel tijd meer, dus hij herhaalde vooral het stuk rond web resources en JavaScript en gaf ons een paar onderwerpen mee om tegen morgen voor te bereiden."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "demo",
+      "render",
+      "power-apps",
+      "klant"
+    ]
+  },
+  {
+    "id": "2026-04-01",
+    "title": "IHH officieel deployen en eerste Power Automate-flow",
+    "date": "woensdag 1 april 2026",
+    "excerpt": "Na veel overleg werd beslist om IHH op Vercel en Neon te hosten, en daarnaast kreeg ik mijn eerste echte opdracht met Power Automate.",
+    "content": [
+      "Vandaag kreeg ik van Mucahid de opdracht om de IHH-app nu officieel op een goede hostingomgeving te zetten.",
+      "Na een vrij lang gesprek met Talha werd uiteindelijk beslist om de frontend en backend op Vercel te hosten en de database op Neon. Dat heb ik dan ook opgezet.",
+      "Na de middag hadden we opnieuw les van Mucahid. We gingen verder met web resources en werkten de oefening van gisteren verder uit en verbeterden ze stap voor stap.",
+      "Daarna introduceerde hij mij in Power Automate. Hij gaf eerst een korte uitleg en vroeg mij daarna om exact dezelfde flow die ik eerder met JavaScript had uitgeschreven, nu in Power Automate na te bouwen.",
+      "Ik heb dat zelfstandig uitgezocht en uiteindelijk werkend gekregen. Mucahid was tevreden, maar wees ook op een paar aandachtspunten. Hij legde tegelijk goed uit wanneer JavaScript als client-side oplossing beter past en wanneer je eerder een server-side flow via Power Automate gebruikt.",
+      "Op het einde van de les gaf hij mij ook nog een eerste theoretische introductie over plugins in Power Apps. Dat onderwerp gaan we later nog verder uitdiepen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "vercel",
+      "neon",
+      "power-automate",
+      "plugins"
+    ]
+  },
+  {
+    "id": "2026-04-02",
+    "title": "Nieuwe hostingkeuze en testomgeving live",
+    "date": "donderdag 2 april 2026",
+    "excerpt": "De hosting van IHH werd opnieuw gewijzigd, maar na veel troubleshooting stond de testomgeving uiteindelijk live op Railway.",
+    "content": [
+      "Vandaag was ik opnieuw bezig met verbeteringen aan IHH toen Mucahid binnenkwam met de vraag om toch een andere hostingoplossing te kiezen in plaats van Vercel.",
+      "Na opnieuw veel overleg werd beslist om Railway te gebruiken. Dat betekende dat ik het hele hostingverhaal weer moest aanpassen.",
+      "We hebben eerst alles naar een testomgeving gedeployed en daar ook meteen de nieuwe domeinnaam aan gekoppeld die al gekocht was.",
+      "In het begin liep dat zeker niet vlot. Vooral de environment variables zorgden voor veel problemen en foutmeldingen, waardoor het lang duurde voor alles juist stond.",
+      "Uiteindelijk is het toch gelukt en stond de site online op https://test.donationport.org. Mucahid was duidelijk opgelucht en wilde de testomgeving later die dag meteen doorsturen naar de mensen van IHH om te laten testen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "railway",
+      "hosting",
+      "deployment",
+      "troubleshooting"
+    ]
+  },
+  {
+    "id": "2026-04-03",
+    "title": "Laatste IHH-aanpassingen en theorie over plugins",
+    "date": "vrijdag 3 april 2026",
+    "excerpt": "Verder gewerkt aan IHH, weekly meeting gehad en intussen ook de eerste theorie gekregen over plugins in Power Apps.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan IHH en nog een aantal zaken verder afgewerkt.",
+      "We hadden ook onze weekly meeting waarin iedereen opnieuw overlopen heeft wat er die week gebeurd was.",
+      "Daarnaast hoorde ik ook dat ik volgende week aan een nieuw project zou beginnen, wat wel spannend was na zo lang vooral met IHH bezig te zijn geweest.",
+      "Later op de dag had ik ook nog een meeting met Younes over plugins. Hij gaf mij vooral theoretische uitleg over hoe plugins in Power Apps werken, maar ik heb er vandaag zelf nog geen geschreven."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "weekly",
+      "plugins",
+      "power-apps",
+      "planning"
+    ]
+  },
+  {
+    "id": "2026-04-06",
+    "title": "Paasmaandag",
+    "date": "maandag 6 april 2026",
+    "excerpt": "Vandaag was er geen werk door Paasmaandag.",
+    "content": [
+      "Vandaag was het Paasmaandag, dus er werd niet gewerkt."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "feestdag",
+      "geen-werk"
+    ]
+  },
+  {
+    "id": "2026-04-07",
+    "title": "Nieuwe velden voor general donations en eerste plugin-oefeningen",
+    "date": "dinsdag 7 april 2026",
+    "excerpt": "Op basis van testfeedback extra velden toegevoegd aan IHH en daarna verder geleerd over plugins, XrmToolBox en early-bound generatie.",
+    "content": [
+      "Vandaag hoorde ik van Mucahid dat de testing van IHH in het algemeen goed ging, maar dat er nog een paar extra velden nodig waren voor general donations.",
+      "Er moest een veld voor notities bijkomen en ook een adresveld wanneer de donatie geregistreerd wordt op naam van een bedrijf. Ik heb die wijzigingen aangepast en meteen ook doorgevoerd naar de testomgeving.",
+      "Na de middag kreeg ik opnieuw les over plugins, maar deze keer van Talha.",
+      "Hij liet mij een paar kleine plugins bouwen als oefening en legde ook veel duidelijker uit hoe XrmToolBox werkt. Daarnaast toonde hij hoe ik early-bound modellen moet genereren en hoe plugins geregistreerd en getest worden.",
+      "Dat was een heel leerrijke namiddag, omdat ik het niet alleen theoretisch hoorde maar ook echt stap voor stap zag."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "plugins",
+      "xrmtoolbox",
+      "early-bound",
+      "testing"
+    ]
+  },
+  {
+    "id": "2026-04-08",
+    "title": "Eerste echte plugin-opdracht voor Universiteit Antwerpen",
+    "date": "woensdag 8 april 2026",
+    "excerpt": "Mijn eerste echte klantplugin opgepakt voor Universiteit Antwerpen, maar tegelijk ook gestruikeld over repo's, bindings en setupvragen.",
+    "content": [
+      "Vandaag kreeg ik van Mucahid een nieuwe opdracht: ik moest een plugin bouwen voor Universiteit Antwerpen.",
+      "Het was mijn eerste echte plugin-taak voor een klant, dus ik was benieuwd maar ook wel wat onzeker over wat ik precies mocht verwachten.",
+      "Ik had daarna een meeting met Souhaib, die de taken voor UA vaak opvolgt. Hij legde functioneel uit wat de bedoeling was en toonde ook kort een demo van hun Power Apps-omgeving.",
+      "Technisch kon hij mij minder helpen, omdat hij vooral functioneel consultant is. Daardoor moest ik veel zelf uitzoeken, onder andere rond credentials, early-bound of late-bound werken en ook gewoon in welke repository ik precies moest zitten.",
+      "Alles samen liep het vandaag niet echt vlot en ik kreeg de plugin nog niet af. Op het einde van de dag hoorde ik ook van Savas dat ik de volgende dag met een nieuwe klant zou starten, twee dagen per week."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "universiteit-antwerpen",
+      "plugins",
+      "power-apps",
+      "ua",
+      "setup"
+    ]
+  },
+  {
+    "id": "2026-04-09",
+    "title": "Start bij nieuwe klant Familiehulp",
+    "date": "donderdag 9 april 2026",
+    "excerpt": "Vandaag officieel toegewezen aan Familiehulp, waar ik twee dagen per week plugins ga bouwen.",
+    "content": [
+      "Vandaag ben ik toegewezen aan een nieuwe klant: Familiehulp.",
+      "Voor deze klant ga ik twee dagen per week werken en mijn taak zal daar vooral bestaan uit plugins bouwen.",
+      "Via Teams kreeg ik van Mucahid mijn eerste opdracht doorgestuurd, omdat hij zelf op vakantie was. Die taak was heel uitgebreid en ook meteen best complex voor een eerste opdracht.",
+      "Ik was eerlijk gezegd wat geschrokken van de omvang ervan, maar ik ben vooral rustig gebleven en heb eerst de tijd genomen om alles op te zetten en goed te begrijpen.",
+      "Daardoor heb ik vandaag nog niet veel echte code geschreven, maar ik heb wel de basis gelegd om er daarna efficiënter aan te kunnen werken."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugins",
+      "nieuwe-klant",
+      "teams",
+      "analyse"
+    ]
+  },
+  {
+    "id": "2026-04-10",
+    "title": "Verder aan Familiehulp en snelle fix voor IHH",
+    "date": "vrijdag 10 april 2026",
+    "excerpt": "Verder gebouwd aan de plugin van Familiehulp, weekly meeting gehad en tussendoor ook nog snel een hostingprobleem op IHH opgelost.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan de plugin van Familiehulp.",
+      "Ik dacht eerst dat ik al bijna klaar was met wat ik tot dan toe geschreven had, maar later bleek dat er nog een grote Word-bijlage aan de taak hing met veel extra uitleg en voorwaarden. Daardoor besefte ik dat de opdracht toch nog groter was dan ik aanvankelijk dacht.",
+      "We hadden vandaag ook onze weekly meeting, waarin iedereen kort vertelde wat hij deze week gedaan had.",
+      "Later op de dag stuurde Mucahid mij nog een bericht dat er een fout was opgedoken op mijn gehoste testomgeving van IHH. Die heb ik gelukkig vrij snel kunnen fixen en daarna opnieuw doorgezet naar de testomgeving.",
+      "Daarna ben ik weer verdergegaan met de plugin van Familiehulp. Het was dus een dag van schakelen tussen oud en nieuw werk."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "ihh",
+      "weekly",
+      "plugin",
+      "bugfix"
+    ]
   }
 ]
