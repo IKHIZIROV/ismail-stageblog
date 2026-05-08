@@ -1373,5 +1373,159 @@
       "ritme",
       "stage"
     ]
+  },
+  {
+    "id": "2026-04-29",
+    "title": "Nieuwe Familiehulp-plugin met hulp van Ibo",
+    "date": "woensdag 29 april 2026",
+    "excerpt": "Verder gewerkt aan een nieuwe plugin voor Familiehulp en onderweg technische hulp gekregen van Ibo rond early-bound en de opzet.",
+    "content": [
+      "Vandaag heb ik opnieuw gewerkt aan een nieuwe plugin voor Familiehulp.",
+      "Ik zat nog met een paar technische twijfels, vooral rond de opzet en het werken met early-bound classes, dus ik ben hulp gaan vragen aan Ibo.",
+      "Hij heeft mij een paar praktische dingen uitgelegd en we hebben samen even gekeken naar hoe ik de structuur het best kon aanpakken.",
+      "Op zo'n momenten merk ik wel dat een korte technische babbel vaak veel tijd kan uitsparen.",
+      "Daarna kon ik terug zelfstandig verderwerken en had ik opnieuw wat meer duidelijkheid over de richting van de plugin."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugin",
+      "ibo",
+      "early-bound",
+      "learning"
+    ]
+  },
+  {
+    "id": "2026-04-30",
+    "title": "Verder bouwen en sparren over aanpak",
+    "date": "donderdag 30 april 2026",
+    "excerpt": "Nog een dag gefocust aan Familiehulp gewerkt, met veel technisch uitzoekwerk en tussendoor overleg over de properste aanpak.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan dezelfde plugin voor Familiehulp.",
+      "Het grootste deel van de dag bestond uit logisch nadenken, testen en proberen om de code zo proper mogelijk op te bouwen.",
+      "Tussendoor heb ik nog een kort gesprek gehad met een collega over hoe ik bepaalde delen beter herbruikbaar kon maken, zodat het later ook makkelijker blijft om gelijkaardige plugins te onderhouden.",
+      "Er was dus niet per se een groot zichtbaar resultaat op het einde van de dag, maar inhoudelijk heb ik wel veel uitgeklaard.",
+      "Dat soort dagen zijn minder opvallend, maar vaak wel nodig om later sneller te kunnen afwerken."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugin",
+      "codekwaliteit",
+      "overleg",
+      "focus"
+    ]
+  },
+  {
+    "id": "2026-05-01",
+    "title": "Feestdag",
+    "date": "vrijdag 1 mei 2026",
+    "excerpt": "Vandaag was er geen werk door de feestdag.",
+    "content": [
+      "Vandaag was het een feestdag, dus er werd niet gewerkt."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "feestdag",
+      "geen-werk"
+    ]
+  },
+  {
+    "id": "2026-05-04",
+    "title": "Importwerk en terug schakelen naar IHH",
+    "date": "maandag 4 mei 2026",
+    "excerpt": "De week gestart met een mix van Familiehulp en IHH, inclusief data importeren en opnieuw wat hostingzaken bekijken.",
+    "content": [
+      "Vandaag heb ik opnieuw tussen twee projecten geschakeld.",
+      "Een deel van de dag ging naar Familiehulp, maar daarnaast ben ik ook weer bezig geweest met IHH.",
+      "Voor IHH moest er onder andere data geïmporteerd worden en ik heb ook nog eens mee gekeken naar een paar hostingzaken zodat alles stabiel bleef staan.",
+      "Zo'n dagen zijn soms wat versnipperd, maar tegelijk wel handig omdat je op meerdere fronten vooruitgang maakt.",
+      "Ik merk dat ik stilaan gewoon word aan dat schakelen tussen klanten en projecten."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "familiehulp",
+      "import",
+      "hosting",
+      "multitask"
+    ]
+  },
+  {
+    "id": "2026-05-05",
+    "title": "Verder aan plugins en klantdata verwerken",
+    "date": "dinsdag 5 mei 2026",
+    "excerpt": "Verder gewerkt aan Familiehulp-plugins en tegelijk opnieuw gegevens verwerkt voor IHH.",
+    "content": [
+      "Vandaag ben ik verder gegaan met het pluginwerk voor Familiehulp.",
+      "Tegelijk kwam er ook opnieuw werk binnen voor IHH, waardoor ik nog eens wat gegevens moest verwerken en nakijken of alles correct binnenkwam.",
+      "Ik had ook een kort gesprek met Mucahid over prioriteiten, omdat ik tegelijk op meerdere dingen bezig was en ik zeker wou zijn dat ik de juiste volgorde aanhield.",
+      "Hij gaf aan dat ik vooral rustig moest blijven en per blok werken in plaats van constant te wisselen, wat eigenlijk wel goed advies was.",
+      "Dat heb ik daarna ook zo geprobeerd toe te passen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "ihh",
+      "plugins",
+      "data",
+      "prioriteiten"
+    ]
+  },
+  {
+    "id": "2026-05-06",
+    "title": "Productiehosting en laatste checks",
+    "date": "woensdag 6 mei 2026",
+    "excerpt": "Vandaag meer aandacht besteed aan hosting en productiechecks, terwijl de andere projecttaken gewoon bleven doorlopen.",
+    "content": [
+      "Vandaag lag de focus iets meer op hosting en controlewerk.",
+      "Ik heb onder andere gekeken naar de productieomgeving en nog een paar zaken nagekeken om zeker te zijn dat alles goed bleef draaien.",
+      "Daarnaast liep het gewone pluginwerk natuurlijk ook gewoon verder, dus het was weer een dag van combineren.",
+      "Ik had tussendoor ook nog een korte babbel met Talha over deployment en waarom bepaalde fouten pas in productie zichtbaar worden en niet lokaal.",
+      "Dat was nuttig, want zulke dingen leer je meestal pas echt wanneer je er middenin zit."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "hosting",
+      "productie",
+      "familiehulp",
+      "deployment",
+      "checks"
+    ]
+  },
+  {
+    "id": "2026-05-07",
+    "title": "Afwisselen tussen Familiehulp en IHH",
+    "date": "donderdag 7 mei 2026",
+    "excerpt": "Nog een dag waarop ik tussen pluginwerk, importtaken en IHH-aanpassingen heb geschakeld.",
+    "content": [
+      "Vandaag was opnieuw een dag met veel afwisseling tussen Familiehulp en IHH.",
+      "Ik heb verder gewerkt aan plugins, maar ook nog een paar zaken opgevolgd rond data en eerder ingevoerde wijzigingen.",
+      "Bij IHH heb ik nog wat kleine aanpassingen gedaan en gecontroleerd of de eerdere hosting en importstappen overal juist doorkwamen.",
+      "Op zich was het geen spectaculaire dag, maar wel eentje waarin er op meerdere fronten tegelijk vooruitgang geboekt werd.",
+      "Tegen het einde van de dag voelde ik wel dat ik de combinatie van verschillende klanten beter begin te beheersen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "ihh",
+      "plugins",
+      "import",
+      "vooruitgang"
+    ]
   }
 ]

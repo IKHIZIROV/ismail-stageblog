@@ -101,8 +101,15 @@ const WEEKLY_RECAPS: Record<string, string[]> = {
     'Week 13 begon met het afronden van de laatste plugin voor Familiehulp en schakelde daarna weer meer terug naar IHH.',
     'De plugin-testing was technisch lastig, vooral omdat ik via API-calls en read-only velden moest controleren of alles juist werkte, maar uiteindelijk kreeg ik ook dat laatste stuk afgewerkt.',
     'Daarna heb ik opnieuw focus gelegd op IHH door feedback verder te verwerken, features af te ronden en de testomgeving bij te werken.',
-    'Het was voorlopig nog maar een korte week in de blog, maar wel eentje waarin werk van verschillende klanten mooi samenkwam en waarin ik vooral veel heb afgewerkt.',
-    'Het algemene gevoel van deze week is: minder zoeken, meer afwerken.',
+    'Later in de week kwam er alweer nieuw pluginwerk voor Familiehulp bij, waarbij ik hulp kreeg van Ibo en tegelijk ook bleef nadenken over hoe de code proper en herbruikbaar kon blijven.',
+    'De week eindigde met een feestdag op vrijdag, waardoor het een wat kortere maar nog altijd goed gevulde werkweek was.',
+  ],
+  '2026-05-04': [
+    'Week 14 draaide opnieuw rond schakelen tussen meerdere klanten en taken, vooral tussen Familiehulp en IHH.',
+    'Ik heb deze week gewerkt aan nieuwe plugins, tussendoor data geïmporteerd, en ook nog productie- en hostinggerelateerde zaken opgevolgd.',
+    'Het waren niet de meest opvallende dagen qua grote meetings of demo\'s, maar wel dagen waarin veel praktische en technische opvolging nodig was.',
+    'Daardoor voelde de week soms versnipperd, maar tegelijk merkte ik dat ik beter begin te worden in het combineren van meerdere codebasissen en prioriteiten.',
+    'Het algemene gevoel van deze week is dat ik minder moeite heb met contextswitches en stilaan vlotter word in het balanceren tussen verschillende klanten.',
   ],
 }
 
