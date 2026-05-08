@@ -74,7 +74,7 @@ const WEEKLY_RECAPS: Record<string, string[]> = {
     'Ik heb eerst een demo voorbereid voor de verantwoordelijke van IHH, tussendoor nog een klantofferte nagekeken met foute berekeningen, en daarna de applicatie tijdelijk gehost zodat de demo vlot kon doorgaan.',
     'De meeting zelf verliep sterk: de klant was tevreden, er kwam bruikbare feedback uit, en tegelijk werd het project ook technisch steeds serieuzer door de discussies rond hosting en deployment.',
     'Later in de week heb ik IHH eerst op Vercel en Neon gezet en daarna opnieuw moeten verhuizen naar Railway, waar uiteindelijk de testomgeving live stond op een eigen domein.',
-    'Daarnaast bleef ook de Power Platform-opleiding verderlopen met Power Automate, web resources en de eerste theoretische introducties rond plugins. Het was dus een week met veel context switches, maar wel één waar ik veel van heb geleerd.',
+    'Daarnaast bleef ook de Power Platform-opleiding verderlopen met Power Automate, web resources en de eerste theoretische introducties rond plugins. Het was dus een week met veel context switches, maar wel een week waar ik veel van heb geleerd.',
   ],
   '2026-04-06': [
     'Week 10 begon rustig met Paasmaandag, maar werd daarna meteen een week van nieuwe technologie en nieuwe klanten.',
@@ -82,6 +82,27 @@ const WEEKLY_RECAPS: Record<string, string[]> = {
     'Daarna kwam er meteen een nieuwe uitdaging bij: mijn eerste echte plugin-opdracht voor Universiteit Antwerpen. Dat ging nog niet vlot, omdat ik tegelijk moest zoeken naar de juiste repo, de juiste binding-aanpak en de nodige toegangen.',
     'Alsof dat nog niet genoeg was, werd ik daarna ook toegewezen aan een nieuwe klant, Familiehulp, waar ik twee dagen per week plugins zal bouwen.',
     'Deze week voelde dus als een echte overgangsweek: IHH liep nog door, maar tegelijk begon ik al duidelijk de overstap te maken naar een nieuwe fase met meer pluginwerk en meerdere klanten.',
+  ],
+  '2026-04-13': [
+    'Week 11 draaide bijna volledig rond een grote en technisch best zware plugin-opdracht voor Familiehulp.',
+    'In het begin had ik nog hulp nodig van Ibo voor zaken zoals early-bound generatie en de algemene setup, maar daarna kon ik de plugin steeds zelfstandiger verder uitwerken.',
+    'Gaandeweg werd duidelijk hoe groot en complex de opdracht eigenlijk was. Net daardoor was het extra sterk dat Mucahid en Talha op het einde tevreden waren over zowel mijn aanpak als mijn code.',
+    'De week eindigde met grondige testing, een push naar de branch en daarnaast ook nog een informatieve workshop over AI en AI-tools.',
+    'Voor mij voelde dit als een belangrijke week, omdat ik hier duidelijk merkte dat ik technisch gegroeid ben en moeilijkere taken beter begin te beheersen.',
+  ],
+  '2026-04-20': [
+    'Week 12 was opnieuw erg afwisselend, met werk voor meerdere klanten door elkaar.',
+    'Ik moest snel schakelen tussen GGZ, IHH en Familiehulp: een custom portal aanpassen en hosten voor een dringende demo, nieuwe donation-logica uitwerken in IHH, en tegelijk meerdere plugins voor Familiehulp bouwen en testen.',
+    'Vooral die contextswitches maakten de week intens, maar ook leerrijk. Ik merkte dat ik steeds sneller kon overschakelen tussen verschillende codebasissen en verschillende soorten opdrachten.',
+    'Tussendoor waren er ook weer vaste teammomenten zoals de weekly meeting en de Monthly Connect, waar codekwaliteit en AI-gebruik opnieuw sterk benadrukt werden.',
+    'Deze week voelde druk, maar tegelijk ook als een bewijs dat ik stilaan met meer verantwoordelijkheid en meerdere parallelle taken kan omgaan.',
+  ],
+  '2026-04-27': [
+    'Week 13 begon met het afronden van de laatste plugin voor Familiehulp en schakelde daarna weer meer terug naar IHH.',
+    'De plugin-testing was technisch lastig, vooral omdat ik via API-calls en read-only velden moest controleren of alles juist werkte, maar uiteindelijk kreeg ik ook dat laatste stuk afgewerkt.',
+    'Daarna heb ik opnieuw focus gelegd op IHH door feedback verder te verwerken, features af te ronden en de testomgeving bij te werken.',
+    'Het was voorlopig nog maar een korte week in de blog, maar wel eentje waarin werk van verschillende klanten mooi samenkwam en waarin ik vooral veel heb afgewerkt.',
+    'Het algemene gevoel van deze week is: minder zoeken, meer afwerken.',
   ],
 }
 

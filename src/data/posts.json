@@ -1099,5 +1099,279 @@
       "plugin",
       "bugfix"
     ]
+  },
+  {
+    "id": "2026-04-13",
+    "title": "Dieper in de plugin met hulp van Ibo",
+    "date": "maandag 13 april 2026",
+    "excerpt": "Verder gewerkt aan mijn plugin en onderweg hulp gevraagd aan Ibo, vooral rond early-bound generatie en de technische setup.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan mijn plugin.",
+      "Ik zat nog met een paar technische vragen, dus ik heb hulp gevraagd aan Ibo. Hij heeft mij vooral geholpen met het genereren van early-bound classes en een paar praktische dingen die nodig waren om vlot verder te kunnen.",
+      "Dat was nuttig, want ik merkte dat ik op die manier sneller door de technische blokkades geraakte.",
+      "Na die uitleg kon ik terug gerichter verderwerken en begon het geheel eindelijk wat meer op zijn plaats te vallen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugin",
+      "early-bound",
+      "hulp",
+      "learning"
+    ]
+  },
+  {
+    "id": "2026-04-14",
+    "title": "Structuur brengen in complexe pluginlogica",
+    "date": "dinsdag 14 april 2026",
+    "excerpt": "De dag gebruikt om de plugin beter te structureren en logica op te delen zodat het geheel beheersbaar bleef.",
+    "content": [
+      "Vandaag heb ik opnieuw verder gewerkt aan dezelfde plugin.",
+      "Het grootste deel van mijn tijd ging naar het structureren van de code, omdat de logica snel complexer begon te worden dan ik eerst had ingeschat.",
+      "Ik heb geprobeerd om delen op te splitsen en duidelijker te maken, zodat ik later minder snel het overzicht zou verliezen.",
+      "Er kwamen geen grote meetings of speciale gebeurtenissen tussen, wat eigenlijk goed uitkwam omdat ik zo volledig in de plugin kon blijven zitten."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugin",
+      "structuur",
+      "focus",
+      "codekwaliteit"
+    ]
+  },
+  {
+    "id": "2026-04-15",
+    "title": "Verder zoeken, testen en stap voor stap vooruit",
+    "date": "woensdag 15 april 2026",
+    "excerpt": "Nog een dag verder gewerkt aan dezelfde plugin, met veel testen en uitzoeken maar wel duidelijke vooruitgang.",
+    "content": [
+      "Vandaag heb ik verder gedaan op hetzelfde werk van de vorige dagen.",
+      "Het was opnieuw een dag van veel uitzoeken, dingen testen en kleine stukjes aanpassen tot alles deed wat het moest doen.",
+      "Hoewel het op het eerste zicht wat traag voelde, merkte ik wel dat er stap voor stap vooruitgang was.",
+      "Ik begin stilaan comfortabeler te worden met pluginwerk, ook al blijft het op sommige momenten nog best technisch."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugin",
+      "testing",
+      "vooruitgang",
+      "power-apps"
+    ]
+  },
+  {
+    "id": "2026-04-16",
+    "title": "Complexe plugin bijna afgerond",
+    "date": "donderdag 16 april 2026",
+    "excerpt": "Mucahid bekeek mijn plugin grondig en was onder de indruk van de complexiteit en van hoe ver ik ermee stond.",
+    "content": [
+      "Vandaag was hopelijk de laatste dag dat ik aan deze plugin moest werken.",
+      "Ik had nog een paar aanpassingen te doen om de code zo dynamisch mogelijk te maken, zodat bepaalde stukken later herbruikbaar zouden zijn voor gelijkaardige forms.",
+      "Mucahid heeft mijn code vandaag volledig bekeken en mij onderweg ook een soort steekproefvragen gesteld om te testen of ik alles goed begreep. Ik kon alles uitleggen en beantwoorden.",
+      "Hij was duidelijk tevreden en zelfs een beetje onder de indruk, omdat de plugin veel groter en complexer geworden was dan hij zelf had verwacht.",
+      "Op een bepaald moment zei hij zelfs dat hij niet doorhad hoe uitgebreid de opdracht eigenlijk was, omdat hij het Word-document van de klant niet volledig had doorgenomen. Hij vond de omvang van de opdracht eerlijk gezegd niet echt aanvaardbaar en zei dat hij dat nog met de klant zou bespreken.",
+      "Hij vroeg daarna ook aan Talha om mijn code te bekijken, en ook daar kwam positief feedback uit. Dat gaf wel een goed gevoel na al het werk van de voorbije dagen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugin",
+      "feedback",
+      "review",
+      "codekwaliteit"
+    ]
+  },
+  {
+    "id": "2026-04-17",
+    "title": "Plugin afgerond, grondig getest en AI-workshop",
+    "date": "vrijdag 17 april 2026",
+    "excerpt": "De plugin bijna volledig afgerond, uitgebreid getest en daarna nog een informatieve workshop gekregen over AI en AI-tools.",
+    "content": [
+      "Mijn plugin is nu zo goed als af, dus vandaag heb ik vooral extra grondig getest.",
+      "Ik heb bijna elk mogelijk scenario uitgeprobeerd en alles nog eens nagekeken om zeker te zijn dat het gedrag overal correct was. Uiteindelijk werkte alles zoals het moest en heb ik de code gepusht naar de branch in de Azure Git repo.",
+      "Vandaag hadden we ook weer onze weekly meeting, zoals elke vrijdag.",
+      "Na de middag kregen we een workshop van Turab over AI, AI-tools en hoe dat geheel in elkaar zit. Dit was het eerste deel, dus ik verwacht dat er volgende week nog een vervolg op komt.",
+      "De workshop was heel informatief en ik heb opnieuw een paar nieuwe dingen ontdekt over AI die ik voordien nog niet kende."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugin",
+      "testing",
+      "weekly",
+      "ai"
+    ]
+  },
+  {
+    "id": "2026-04-20",
+    "title": "Snelle portalopdracht voor GGZ",
+    "date": "maandag 20 april 2026",
+    "excerpt": "Met weinig voorbereiding een portal voor GGZ aangepast, snel gehost voor een meeting en daarna nog extra taken op dezelfde dag afgewerkt.",
+    "content": [
+      "Vandaag kreeg ik van Mucahid een nieuwe taak voor de klant GGZ.",
+      "Ze hadden binnen het uur een meeting met de klant, dus hij wilde dat ik snel iets aanpaste in hun custom portal. Die portal is gebouwd in Next.js en gekoppeld aan de CRM-omgeving van GGZ via Dataverse.",
+      "In de portal moesten formulieren records kunnen aanmaken in CRM. Toen ik klaar was met de aanpassing, was de klant al aangekomen voor de meeting en vroeg Mucahid mij om de portal nog snel te hosten zodat ze tijdens de meeting een demo konden geven.",
+      "Dat heb ik gedaan, en daarna kreeg ik nog extra taken voor diezelfde portal die ik ook nog voor het einde van de dag heb afgewerkt.",
+      "Mucahid heeft alles nagekeken en zei dat het in orde was, dus heb ik het meteen ook doorgezet naar de gehoste site.",
+      "Daarbovenop vroeg hij mij ook om opnieuw verder te werken aan IHH, omdat de klant daar nog extra features bij wou. Die heb ik vandaag vooral ingepland voor morgen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ggz",
+      "nextjs",
+      "portal",
+      "hosting",
+      "ihh"
+    ]
+  },
+  {
+    "id": "2026-04-21",
+    "title": "Nieuwe IHH-features en snelle GGZ-fix",
+    "date": "dinsdag 21 april 2026",
+    "excerpt": "Verder gewerkt aan nieuwe wensen van IHH rond Qurban-donaties en tussendoor nog snel wijzigingen doorgevoerd voor GGZ.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan IHH.",
+      "Er waren extra taken bijgekomen bovenop die van gisteren. De klant wou bijvoorbeeld dat een volunteer ook een Qurban donation kan aanmaken.",
+      "Daarnaast wilden ze ook een minimumprijs kunnen instellen voor een Qurban donation afhankelijk van de gekozen periode. Het bedrag boven die minimumprijs moest dan automatisch als een nieuwe general donation worden weggeschreven.",
+      "Dat was dus iets functioneler en minder puur visueel, wat het meteen ook wat interessanter maakte.",
+      "Tussendoor vroeg Souhaib mij ook nog om snel kleine aanpassingen door te voeren voor de GGZ custom portal van gisteren. Ik heb die wijzigingen direct gedaan en daarna ook opnieuw doorgezet naar de gehoste website."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "ggz",
+      "qurban",
+      "donations",
+      "portal"
+    ]
+  },
+  {
+    "id": "2026-04-22",
+    "title": "Drie plugins voor Familiehulp",
+    "date": "woensdag 22 april 2026",
+    "excerpt": "Vandaag lag de focus volledig op Familiehulp, waar ik aan drie verschillende plugins tegelijk heb gewerkt.",
+    "content": [
+      "Vandaag was Familiehulp de hoofdzaak.",
+      "Ik moest tegelijk aan drie plugins werken, wat meteen ook wat meer planning vroeg dan wanneer je maar op één ding focust.",
+      "Ik heb eerst geprobeerd voor mezelf duidelijk te krijgen wat de overlap was tussen de drie en wat echt apart behandeld moest worden.",
+      "Daarna heb ik per plugin de logica verder uitgewerkt en vooral geprobeerd om niet alles door elkaar te laten lopen.",
+      "Het was een vrij technische dag, maar wel eentje waarin ik merkte dat ik stilaan sneller begin te worden in dit soort pluginwerk."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugins",
+      "planning",
+      "focus",
+      "technisch"
+    ]
+  },
+  {
+    "id": "2026-04-23",
+    "title": "Meeting met IHH en verdere updates",
+    "date": "donderdag 23 april 2026",
+    "excerpt": "Met IHH de laatste updates overlopen en daarna verder gewerkt aan de openstaande punten in het project.",
+    "content": [
+      "Vandaag hadden we een meeting over IHH waarin de laatste updates en openstaande punten werden overlopen.",
+      "Zo'n meeting is altijd handig omdat je dan nog eens duidelijk hoort wat de prioriteiten zijn en wat voor de klant het belangrijkst blijft.",
+      "Na die meeting ben ik verder gegaan met de bijhorende aanpassingen en heb ik geprobeerd om de feedback zo snel mogelijk te vertalen naar concrete wijzigingen in het project.",
+      "Het was minder een dag van groot nieuw werk en meer een dag van afstemmen, verwerken en verder bouwen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "meeting",
+      "updates",
+      "feedback",
+      "planning"
+    ]
+  },
+  {
+    "id": "2026-04-24",
+    "title": "Drukke vrijdag met plugin-tests en monthly connect",
+    "date": "vrijdag 24 april 2026",
+    "excerpt": "Drie Familiehulp-plugins getest, weekly meeting gehad, een kijkstagiair op kantoor gezien en daarna nog de monthly connect gevolgd.",
+    "content": [
+      "Vandaag was het een drukke dag. Er waren veel mensen aanwezig op kantoor, waardoor het meteen levendig aanvoelde.",
+      "Mijn belangrijkste taak was het testen van de drie plugins waar ik eerder deze week aan gewerkt had voor Familiehulp.",
+      "Dat testen was niet zo simpel, omdat de records normaal gezien via een integratiebericht van een externe website binnenkomen. Om ze lokaal of handmatig te testen moest ik ze zelf aanmaken, en dat gaf conflicten met andere bestaande plugins.",
+      "Uiteindelijk is het wel gelukt, en nu blijft er nog maar één plugin over om af te werken voor Familiehulp.",
+      "Vandaag was er ook een student op kantoor voor een kijkstage van Thomas More, wat wel eens leuk was om te zien.",
+      "We hadden natuurlijk ook onze weekly meeting, en om 15 uur begon de Monthly Connect. Daar kregen we bedrijfsupdates, extra uitleg over AI-gebruik en veel nadruk op codekwaliteit. Er werd expliciet gezegd dat code reviews heel belangrijk zijn, ook naar klanten en competitie toe.",
+      "Het was dus een drukke maar ook boeiende dag."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugins",
+      "testing",
+      "weekly",
+      "monthly"
+    ]
+  },
+  {
+    "id": "2026-04-27",
+    "title": "Laatste Familiehulp-plugin klaar",
+    "date": "maandag 27 april 2026",
+    "excerpt": "De laatste plugin voor Familiehulp afgewerkt en getest, en daarna ook nog feedback verwerkt op IHH.",
+    "content": [
+      "Vandaag heb ik de laatste plugin van Familiehulp afgewerkt en getest.",
+      "De testing was niet eenvoudig, omdat ik constant via de API moest nakijken of de juiste velden door de plugin aangepast werden.",
+      "Wanneer ik zelf nieuwe records wilde aanmaken om te testen, moest ik vaak de 'god mode'-functie van de Level Up extension gebruiken, omdat veel velden read-only waren.",
+      "Na de middag heb ik gewerkt aan de feedback van IHH. Ik heb onder andere de regions-feature afgerond en nog een paar andere changes doorgevoerd, zoals donaties editable maken.",
+      "Toen alles klaar was, heb ik mijn code gepusht naar de testomgeving."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "plugins",
+      "ihh",
+      "testing",
+      "api"
+    ]
+  },
+  {
+    "id": "2026-04-28",
+    "title": "Verder aan IHH na de pluginfase",
+    "date": "dinsdag 28 april 2026",
+    "excerpt": "Vandaag terug verder gewerkt aan IHH, na een periode waarin pluginwerk duidelijk meer op de voorgrond stond.",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan IHH.",
+      "Na een periode met veel pluginwerk voor andere klanten voelde het wel goed om opnieuw wat meer in deze codebase te zitten.",
+      "Ik heb vooral verder gebouwd op de openstaande feedback en geprobeerd opnieuw wat ritme te krijgen in het project.",
+      "Het was geen uitzonderlijke dag, maar wel nuttig om terug wat continuiteit te brengen in mijn werk rond IHH."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "ihh",
+      "feedback",
+      "ritme",
+      "stage"
+    ]
   }
 ]
