@@ -81,31 +81,6 @@ a {
   border-radius: 999px 48px 999px 48px;
 }
 
-.scrollbar-poster {
-  scrollbar-color: #fd7b54 #fff7ea;
-  scrollbar-width: thin;
-}
-
-.scrollbar-poster::-webkit-scrollbar {
-  width: 10px;
-}
-
-.scrollbar-poster::-webkit-scrollbar-track {
-  background: #fff7ea;
-  border-left: 0;
-  border-radius: 999px;
-}
-
-.scrollbar-poster::-webkit-scrollbar-thumb {
-  background: #fd7b54;
-  border: 3px solid #fff7ea;
-  border-radius: 999px;
-}
-
-.scrollbar-poster::-webkit-scrollbar-thumb:hover {
-  background: #7447f0;
-}
-
 /* View Transitions API: smooth morph between pages */
 @supports (view-transition-name: none) {
   ::view-transition-old(root) {

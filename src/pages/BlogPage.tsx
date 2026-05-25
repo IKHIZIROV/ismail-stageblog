@@ -223,7 +223,7 @@ function BlogPage() {
           </div>
         ) : (
           <div className="lg:grid lg:grid-cols-[224px_minmax(0,1fr)] lg:items-start lg:gap-8">
-            <aside className="card-surface scrollbar-poster mb-8 p-4 lg:fixed lg:left-6 lg:top-24 lg:z-10 lg:mb-0 lg:max-h-[calc(100vh-7rem)] lg:w-56 lg:overflow-y-auto xl:left-[calc((100vw_-_72rem)/2_+_1.5rem)]">
+            <aside className="card-surface mb-8 p-4 lg:fixed lg:left-6 lg:top-24 lg:z-10 lg:mb-0 lg:w-56 xl:left-[calc((100vw_-_72rem)/2_+_1.5rem)]">
               <h2 className="eyebrow-label text-brand-blue">Snel Naar Week</h2>
               <nav className="mt-3 flex gap-2 overflow-x-auto pb-1 lg:block lg:space-y-2 lg:overflow-visible lg:pb-0">
                 {weekGroups.map((group) => (

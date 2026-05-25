@@ -23,6 +23,17 @@ function AboutPage() {
               <p>Telefoon: 0471 65 04 47</p>
               <p>E-mail: ismailkhizirov@gmail.com</p>
               <p>
+                Portfolio:{' '}
+                <a
+                  href="https://ismailkhizirov.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="font-semibold text-brand-blue hover:underline"
+                >
+                  ismailkhizirov.com
+                </a>
+              </p>
+              <p>
                 LinkedIn:{' '}
                 <a
                   href="https://www.linkedin.com/in/ismail-khizirov/"

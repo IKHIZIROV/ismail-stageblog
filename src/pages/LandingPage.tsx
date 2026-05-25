@@ -56,6 +56,14 @@ function LandingPage() {
               >
                 Meer over mij
               </ViewTransitionLink>
+              <a
+                href="https://ismailkhizirov.com"
+                target="_blank"
+                rel="noreferrer"
+                className="btn-secondary"
+              >
+                Portfolio website
+              </a>
             </div>
           </div>
 
