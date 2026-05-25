@@ -7,7 +7,7 @@ import LandingPage from './pages/LandingPage'
 
 function App() {
   return (
-    <div className="min-h-screen overflow-x-hidden bg-brand-cream text-brand-text">
+    <div className="min-h-screen overflow-x-clip bg-brand-cream text-brand-text">
       <Navbar />
       <main>
         <Routes>
