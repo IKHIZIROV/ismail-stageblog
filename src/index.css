@@ -12,10 +12,31 @@ body {
   margin: 0;
   min-width: 320px;
   background-color: #fdedd6;
+  scrollbar-color: #2664e4 #f8e4c4;
+  scrollbar-width: thin;
 }
 
 a {
   color: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 14px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f8e4c4;
+  border-left: 1px solid rgba(23, 38, 74, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2664e4;
+  border: 4px solid #f8e4c4;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #17264a;
 }
 
 ::selection {
@@ -58,6 +79,31 @@ a {
 
 .abstract-ribbon {
   border-radius: 999px 48px 999px 48px;
+}
+
+.scrollbar-poster {
+  scrollbar-color: #fd7b54 #fff7ea;
+  scrollbar-width: thin;
+}
+
+.scrollbar-poster::-webkit-scrollbar {
+  width: 10px;
+}
+
+.scrollbar-poster::-webkit-scrollbar-track {
+  background: #fff7ea;
+  border-left: 0;
+  border-radius: 999px;
+}
+
+.scrollbar-poster::-webkit-scrollbar-thumb {
+  background: #fd7b54;
+  border: 3px solid #fff7ea;
+  border-radius: 999px;
+}
+
+.scrollbar-poster::-webkit-scrollbar-thumb:hover {
+  background: #7447f0;
 }
 
 /* View Transitions API: smooth morph between pages */
