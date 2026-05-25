@@ -222,18 +222,18 @@ function BlogPage() {
             <p className="mt-2 text-brand-muted">Voeg een item toe aan src/data/posts.json om je eerste blogpost te tonen.</p>
           </div>
         ) : (
-          <div className="lg:grid lg:grid-cols-[224px_minmax(0,1fr)] lg:items-start lg:gap-8">
-            <aside className="card-surface mb-8 p-4 lg:sticky lg:top-24 lg:mb-0 lg:self-start">
-              <h2 className="eyebrow-label text-brand-blue">Snel Naar Week</h2>
-              <nav className="mt-3 flex gap-2 overflow-x-auto pb-1 lg:block lg:space-y-2 lg:overflow-visible lg:pb-0">
+          <div className="lg:grid lg:grid-cols-[208px_minmax(0,1fr)] lg:items-start lg:gap-8">
+            <aside className="card-surface mb-8 p-4 lg:sticky lg:top-20 lg:mb-0 lg:self-start lg:p-3">
+              <h2 className="eyebrow-label text-brand-blue lg:text-[0.65rem]">Snel Naar Week</h2>
+              <nav className="mt-3 flex gap-2 overflow-x-auto pb-1 lg:mt-2 lg:block lg:space-y-1 lg:overflow-visible lg:pb-0">
                 {weekGroups.map((group) => (
                   <a
                     key={group.id}
                     href={`#week-${group.id}`}
-                    className="inline-flex shrink-0 items-center rounded-2xl px-3 py-2 text-sm font-semibold text-brand-muted transition hover:bg-brand-sand hover:text-brand-navy lg:flex"
+                    className="inline-flex shrink-0 items-center rounded-2xl px-3 py-2 text-sm font-semibold text-brand-muted transition hover:bg-brand-sand hover:text-brand-navy lg:flex lg:justify-between lg:px-2.5 lg:py-1.5 lg:text-xs"
                   >
                     {group.shortLabel}
-                    <span className="ml-2 text-xs text-brand-muted/70">({group.posts.length})</span>
+                    <span className="ml-2 text-xs text-brand-muted/70 lg:text-[0.7rem]">({group.posts.length})</span>
                   </a>
                 ))}
               </nav>
