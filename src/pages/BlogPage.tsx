@@ -219,21 +219,21 @@ function BlogPage() {
         {posts.length === 0 ? (
           <div className="card-surface p-8 text-center">
             <h2 className="text-xl font-semibold text-brand-navy">Nog geen posts</h2>
-            <p className="mt-2 text-slate-600">Voeg een item toe aan src/data/posts.json om je eerste blogpost te tonen.</p>
+            <p className="mt-2 text-brand-muted">Voeg een item toe aan src/data/posts.json om je eerste blogpost te tonen.</p>
           </div>
         ) : (
           <div className="xl:grid xl:grid-cols-[224px_minmax(0,1fr)] xl:items-start xl:gap-8">
             <aside className="card-surface mb-8 p-4 xl:sticky xl:top-24 xl:mb-0">
-              <h2 className="text-sm font-semibold uppercase tracking-wide text-brand-cyan">Snel Naar Week</h2>
+              <h2 className="eyebrow-label text-brand-blue">Snel Naar Week</h2>
               <nav className="mt-3 flex gap-2 overflow-x-auto pb-1 xl:block xl:space-y-2 xl:overflow-visible xl:pb-0">
                 {weekGroups.map((group) => (
                   <a
                     key={group.id}
                     href={`#week-${group.id}`}
-                    className="inline-flex shrink-0 items-center rounded-lg px-3 py-2 text-sm text-slate-700 transition hover:bg-slate-100 hover:text-brand-navy xl:flex"
+                    className="inline-flex shrink-0 items-center rounded-2xl px-3 py-2 text-sm font-semibold text-brand-muted transition hover:bg-brand-sand hover:text-brand-navy xl:flex"
                   >
                     {group.shortLabel}
-                    <span className="ml-2 text-xs text-slate-500">({group.posts.length})</span>
+                    <span className="ml-2 text-xs text-brand-muted/70">({group.posts.length})</span>
                   </a>
                 ))}
               </nav>
@@ -242,20 +242,30 @@ function BlogPage() {
             <div className="mx-auto w-full max-w-4xl space-y-10 sm:space-y-12 xl:max-w-none">
               {weekGroups.map((group) => (
                 <section key={group.id} id={`week-${group.id}`} className="space-y-6 scroll-mt-24">
-                  <header className="rounded-xl border border-slate-200 bg-slate-100 px-4 py-3">
+                  <header className="rounded-[1.25rem] border border-brand-navy/10 bg-brand-sand/70 px-4 py-3">
                     <h3 className="text-xl font-semibold text-brand-navy">{group.title}</h3>
                   </header>
 
-                  <article className="rounded-2xl border border-brand-cyan/30 bg-cyan-50 p-6 sm:p-8">
+                  <article className="relative overflow-hidden rounded-[1.75rem] border border-brand-navy/10 bg-brand-paper/75 p-6 shadow-card sm:p-8">
+                    <div className="absolute -right-10 top-8 h-28 w-28 rounded-full bg-brand-teal/80" aria-hidden="true" />
+                    <div
+                      className="abstract-ribbon absolute -left-20 bottom-10 h-14 w-60 rotate-[8deg] bg-brand-purple/75"
+                      aria-hidden="true"
+                    />
                     <div className="space-y-4">
-                      <div className="flex h-44 items-center justify-center rounded-xl bg-gradient-to-br from-brand-cyan to-brand-dark px-4 text-center sm:h-52">
-                        <span className="text-2xl font-bold leading-tight text-white sm:text-3xl">
+                      <div className="relative flex h-44 items-center justify-center overflow-hidden rounded-[1.25rem] bg-brand-navy px-4 text-center sm:h-52">
+                        <div className="absolute -left-8 top-8 h-24 w-24 rounded-full bg-brand-coral" aria-hidden="true" />
+                        <div
+                          className="abstract-ribbon absolute -right-12 bottom-8 h-14 w-52 bg-brand-blue"
+                          aria-hidden="true"
+                        />
+                        <span className="relative text-2xl font-bold leading-tight text-white sm:text-3xl">
                           Weekly Recap {getWeekNumber(group.id)}
                         </span>
                       </div>
-                      <div className="rounded-xl border border-cyan-100 bg-white/70 p-5 sm:p-6">
-                        <p className="text-xs font-semibold uppercase tracking-wide text-brand-cyan">Samenvatting van de week</p>
-                        <div className="mt-4 space-y-3 text-base leading-relaxed text-slate-700 sm:text-lg">
+                      <div className="rounded-[1.25rem] border border-brand-navy/10 bg-brand-cream/80 p-5 sm:p-6">
+                        <p className="eyebrow-label text-brand-coral">Samenvatting van de week</p>
+                        <div className="mt-4 space-y-3 text-base leading-relaxed text-brand-muted sm:text-lg">
                           {getWeeklyRecap(group).map((paragraph, index) => (
                             <p key={`${group.id}-recap-${index}`}>{paragraph}</p>
                           ))}
@@ -274,14 +284,14 @@ function BlogPage() {
 
                       return (
                         <article key={`${post.id}-full`} className="card-surface overflow-hidden">
-                          <div className="flex h-44 border-b border-slate-200 bg-slate-50 sm:h-56">
+                          <div className="flex h-44 border-b border-brand-navy/10 bg-brand-sand/55 sm:h-56">
                             <div className="flex shrink-0 items-center pl-6 sm:pl-8 md:min-w-[200px]">
-                              <span className="text-6xl font-bold tracking-tight text-brand-cyan sm:text-7xl md:text-8xl">
+                              <span className="text-6xl font-bold tracking-tight text-brand-blue sm:text-7xl md:text-8xl">
                                 Dag {dayNumber}
                               </span>
                             </div>
                             {hasCustomImage && (
-                              <div className="relative min-w-0 flex-1 overflow-hidden rounded-r-2xl bg-white pr-0">
+                              <div className="relative min-w-0 flex-1 overflow-hidden rounded-r-[1.75rem] bg-brand-paper pr-0">
                                 <img
                                   src={customImages[0]}
                                   alt=""
@@ -293,10 +303,10 @@ function BlogPage() {
                           </div>
 
                           <div className="p-5 sm:p-6">
-                            <p className="text-sm font-semibold uppercase tracking-wide text-brand-cyan">{post.date}</p>
+                            <p className="eyebrow-label text-brand-coral">{post.date}</p>
                             <h2 className="mt-2 text-xl font-semibold text-brand-navy sm:text-2xl">{post.title}</h2>
 
-                            <div className="mt-4 space-y-4 leading-relaxed text-slate-700">
+                            <div className="mt-4 space-y-4 leading-relaxed text-brand-muted">
                               {post.content.map((paragraph) => (
                                 <p key={`${post.id}-${paragraph.slice(0, 20)}`}>{paragraph}</p>
                               ))}

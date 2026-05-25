@@ -4,16 +4,23 @@
 
 :root {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #1f3442;
-  background-color: #f3f7fa;
+  color: #17264a;
+  background-color: #fdedd6;
 }
 
 body {
   margin: 0;
+  min-width: 320px;
+  background-color: #fdedd6;
 }
 
 a {
   color: inherit;
+}
+
+::selection {
+  background: #1fdeb8;
+  color: #17264a;
 }
 
 .container-page {
@@ -21,15 +28,36 @@ a {
 }
 
 .card-surface {
-  @apply rounded-2xl border border-slate-200 bg-white shadow-soft;
+  @apply rounded-[1.75rem] border border-brand-navy/10 bg-brand-paper/90 shadow-card backdrop-blur-sm transition duration-300 hover:-translate-y-1 hover:border-brand-blue/25 hover:shadow-soft;
 }
 
 .section-title {
-  @apply text-3xl font-semibold tracking-tight text-brand-navy sm:text-4xl;
+  @apply text-3xl font-bold leading-tight tracking-normal text-brand-navy sm:text-4xl;
 }
 
 .section-subtitle {
-  @apply mt-3 max-w-3xl text-base leading-relaxed text-slate-600 sm:text-lg;
+  @apply mt-4 max-w-3xl text-base leading-relaxed text-brand-muted sm:text-lg;
+}
+
+.eyebrow-label {
+  @apply font-mono text-xs font-semibold uppercase tracking-[0.22em] text-brand-purple;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center rounded-2xl bg-brand-blue px-5 py-3 text-center text-sm font-semibold text-white shadow-button transition duration-300 hover:-translate-y-0.5 hover:bg-brand-navy focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-blue focus-visible:ring-offset-2 focus-visible:ring-offset-brand-cream;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center rounded-2xl border border-brand-navy/15 bg-brand-paper px-5 py-3 text-center text-sm font-semibold text-brand-navy shadow-soft transition duration-300 hover:-translate-y-0.5 hover:border-brand-coral/40 hover:bg-brand-sand focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-coral focus-visible:ring-offset-2 focus-visible:ring-offset-brand-cream;
+}
+
+.poster-dots {
+  background-image: radial-gradient(circle, rgba(23, 38, 74, 0.2) 1.6px, transparent 1.8px);
+  background-size: 14px 14px;
+}
+
+.abstract-ribbon {
+  border-radius: 999px 48px 999px 48px;
 }
 
 /* View Transitions API: smooth morph between pages */
