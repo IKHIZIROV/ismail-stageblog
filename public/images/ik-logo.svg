@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">IK monogram</title>
+  <desc id="desc">Abstract overlapping monogram logo for Ismail Khizirov.</desc>
+  <rect width="512" height="512" rx="112" fill="#FDEDD6" />
+  <circle cx="380" cy="156" r="82" fill="#02A7EF" />
+  <path d="M116 104h96c29 0 52 23 52 52v200c0 29-23 52-52 52h-96V104Z" fill="#1FDEB8" />
+  <path d="M224 254 376 104h86L316 253l154 155h-92L224 254Z" fill="#2664E4" />
+  <path d="M178 236h214c37 0 67 30 67 67s-30 67-67 67H178c-37 0-67-30-67-67s30-67 67-67Z" fill="#7447F0" />
+  <path d="M250 236h86v134h-86z" fill="#FD7B54" />
+  <path d="M164 104h60v304h-60z" fill="#17264A" opacity=".08" />
+  <rect x="164" y="104" width="78" height="304" rx="34" fill="#1FDEB8" />
+  <path d="M252 286h136c12 0 22 10 22 22s-10 22-22 22H252v-44Z" fill="#FDEDD6" />
+  <path d="M334 182h82c12 0 22 10 22 22s-10 22-22 22h-82v-44Z" fill="#FDEDD6" />
+</svg>

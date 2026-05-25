@@ -15,12 +15,11 @@ function Navbar() {
           to="/"
           className="group flex items-center gap-3 rounded-2xl outline-none transition focus-visible:ring-2 focus-visible:ring-brand-blue focus-visible:ring-offset-2 focus-visible:ring-offset-brand-cream"
         >
-          <span className="grid h-9 w-9 grid-cols-2 grid-rows-2 overflow-hidden rounded-2xl border border-brand-navy/10 bg-brand-paper shadow-soft">
-            <span className="bg-brand-teal" />
-            <span className="rounded-bl-2xl bg-brand-blue" />
-            <span className="rounded-tr-2xl bg-brand-coral" />
-            <span className="bg-brand-purple" />
-          </span>
+          <img
+            src="/images/ik-logo.svg"
+            alt=""
+            className="h-9 w-9 rounded-2xl border border-brand-navy/10 bg-brand-paper shadow-soft"
+          />
           <span className="flex items-baseline gap-2">
             <span className="text-xl font-bold tracking-normal text-brand-navy sm:text-2xl">RETURN</span>
             <span className="hidden font-mono text-xs font-semibold uppercase tracking-[0.18em] text-brand-muted sm:block">
