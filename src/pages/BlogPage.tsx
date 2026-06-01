@@ -287,7 +287,10 @@ const stageStartWeek =
 
 function getWeekNumber(weekId: string): number {
   const weekDate = parsePostIdToDate(weekId)
-  const diffMs = weekDate.getTime() - stageStartWeek.getTime()
+  const diffMs =
+    Date.UTC(weekDate.getFullYear(), weekDate.getMonth(), weekDate.getDate()) -
+    Date.UTC(stageStartWeek.getFullYear(), stageStartWeek.getMonth(), stageStartWeek.getDate())
+
   return Math.floor(diffMs / (7 * 24 * 60 * 60 * 1000)) + 1
 }
 
