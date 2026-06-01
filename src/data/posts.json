@@ -21,7 +21,8 @@
       "react",
       "postgres",
       "docker"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-02-03",
@@ -44,7 +45,8 @@
       "tanstack-router",
       "login",
       "stage"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-02-04",
@@ -67,7 +69,8 @@
       "pull-request",
       "zod",
       "tanstack-query"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-02-05",
@@ -90,7 +93,8 @@
       "api",
       "feedback",
       "ai-tools"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-02-06",
@@ -113,7 +117,8 @@
       "dashboard",
       "team",
       "communicatie"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-02-09",
@@ -134,7 +139,8 @@
       "azure-devops",
       "refactoring",
       "kwaliteit"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-02-10",
@@ -157,7 +163,8 @@
       "donations",
       "data",
       "workflow"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-02-11",
@@ -177,7 +184,8 @@
       "programmeerwedstrijd",
       "hasselt",
       "prestatie"
-    ]
+    ],
+    "category": "reflectie"
   },
   {
     "id": "2026-02-12",
@@ -198,7 +206,8 @@
       "power-platform",
       "planning",
       "kantoor"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-02-13",
@@ -221,7 +230,8 @@
       "ai",
       "vibecoding",
       "team"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-02-16",
@@ -243,7 +253,8 @@
       "qurban",
       "power-platform",
       "learning"
-    ]
+    ],
+    "category": "power platform"
   },
   {
     "id": "2026-02-17",
@@ -266,7 +277,8 @@
       "routing",
       "power-platform",
       "forms"
-    ]
+    ],
+    "category": "power platform"
   },
   {
     "id": "2026-02-18",
@@ -289,7 +301,8 @@
       "power-platform",
       "cursor",
       "publishing"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-02-19",
@@ -312,7 +325,8 @@
       "web-resources",
       "javascript",
       "forms"
-    ]
+    ],
+    "category": "power platform"
   },
   {
     "id": "2026-02-20",
@@ -335,7 +349,8 @@
       "planning",
       "frontend",
       "logic"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-02-23",
@@ -356,7 +371,8 @@
       "azure-devops",
       "qurban",
       "planning"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-02-24",
@@ -378,7 +394,8 @@
       "qurban",
       "pull-request",
       "feedback"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-02-25",
@@ -399,7 +416,8 @@
       "thuiswerk",
       "qurban",
       "focus"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-02-26",
@@ -423,7 +441,8 @@
       "portofx",
       "devops",
       "planning"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-02-27",
@@ -444,7 +463,8 @@
       "intervisie",
       "reflectie",
       "stage"
-    ]
+    ],
+    "category": "reflectie"
   },
   {
     "id": "2026-03-02",
@@ -465,7 +485,8 @@
       "afwerking",
       "details",
       "focus"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-03",
@@ -486,7 +507,8 @@
       "focus",
       "rustige-dag",
       "vooruitgang"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-04",
@@ -507,7 +529,8 @@
       "event",
       "moving-forward",
       "networking"
-    ]
+    ],
+    "category": "reflectie"
   },
   {
     "id": "2026-03-05",
@@ -528,7 +551,8 @@
       "kantoor",
       "heropstart",
       "ritme"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-03-06",
@@ -549,7 +573,8 @@
       "vrijdag",
       "afwerking",
       "stage"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-09",
@@ -570,7 +595,8 @@
       "planning",
       "focus",
       "weekstart"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-10",
@@ -591,7 +617,8 @@
       "verbeteringen",
       "kwaliteit",
       "details"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-11",
@@ -612,7 +639,8 @@
       "ritme",
       "focus",
       "stabiliteit"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-12",
@@ -633,7 +661,8 @@
       "focus",
       "afwerking",
       "productiviteit"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-13",
@@ -654,7 +683,8 @@
       "vrijdag",
       "vooruitgang",
       "weekafsluiting"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-16",
@@ -677,7 +707,8 @@
       "resend",
       "mail",
       "features"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-03-17",
@@ -698,7 +729,8 @@
       "pages",
       "mail",
       "afwerking"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-18",
@@ -719,7 +751,8 @@
       "details",
       "integratie",
       "focus"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-19",
@@ -740,7 +773,8 @@
       "verfijning",
       "demo",
       "vooruitgang"
-    ]
+    ],
+    "category": "code"
   },
   {
     "id": "2026-03-20",
@@ -761,7 +795,8 @@
       "weekly",
       "afwerking",
       "progressie"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-03-23",
@@ -784,7 +819,8 @@
       "planning",
       "team",
       "lunch"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-03-24",
@@ -807,7 +843,8 @@
       "feedback",
       "todos",
       "meeting"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-03-25",
@@ -830,7 +867,8 @@
       "feedback",
       "kantoor",
       "advies"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-03-26",
@@ -853,7 +891,8 @@
       "power-automate",
       "planning",
       "drukke-dag"
-    ]
+    ],
+    "category": "power platform"
   },
   {
     "id": "2026-03-27",
@@ -876,7 +915,8 @@
       "evaluatie",
       "odoo",
       "kantoor"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-03-30",
@@ -898,7 +938,8 @@
       "voorbereiding",
       "hosting",
       "team"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-03-31",
@@ -921,7 +962,8 @@
       "render",
       "power-apps",
       "klant"
-    ]
+    ],
+    "category": "deployment"
   },
   {
     "id": "2026-04-01",
@@ -945,7 +987,8 @@
       "neon",
       "power-automate",
       "plugins"
-    ]
+    ],
+    "category": "deployment"
   },
   {
     "id": "2026-04-02",
@@ -968,7 +1011,8 @@
       "hosting",
       "deployment",
       "troubleshooting"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-04-03",
@@ -990,7 +1034,8 @@
       "plugins",
       "power-apps",
       "planning"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-04-06",
@@ -1006,7 +1051,8 @@
     "tags": [
       "feestdag",
       "geen-werk"
-    ]
+    ],
+    "category": "reflectie"
   },
   {
     "id": "2026-04-07",
@@ -1029,7 +1075,8 @@
       "xrmtoolbox",
       "early-bound",
       "testing"
-    ]
+    ],
+    "category": "power platform"
   },
   {
     "id": "2026-04-08",
@@ -1052,7 +1099,8 @@
       "power-apps",
       "ua",
       "setup"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-09",
@@ -1075,7 +1123,8 @@
       "nieuwe-klant",
       "teams",
       "analyse"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-10",
@@ -1098,7 +1147,8 @@
       "weekly",
       "plugin",
       "bugfix"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-04-13",
@@ -1120,7 +1170,8 @@
       "early-bound",
       "hulp",
       "learning"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-14",
@@ -1142,7 +1193,8 @@
       "structuur",
       "focus",
       "codekwaliteit"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-15",
@@ -1164,7 +1216,8 @@
       "testing",
       "vooruitgang",
       "power-apps"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-16",
@@ -1188,7 +1241,8 @@
       "feedback",
       "review",
       "codekwaliteit"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-04-17",
@@ -1211,7 +1265,8 @@
       "testing",
       "weekly",
       "ai"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-04-20",
@@ -1235,7 +1290,8 @@
       "portal",
       "hosting",
       "ihh"
-    ]
+    ],
+    "category": "deployment"
   },
   {
     "id": "2026-04-21",
@@ -1258,7 +1314,8 @@
       "qurban",
       "donations",
       "portal"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-22",
@@ -1281,7 +1338,8 @@
       "planning",
       "focus",
       "technisch"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-23",
@@ -1303,7 +1361,8 @@
       "updates",
       "feedback",
       "planning"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-04-24",
@@ -1328,7 +1387,8 @@
       "testing",
       "weekly",
       "monthly"
-    ]
+    ],
+    "category": "team & cultuur"
   },
   {
     "id": "2026-04-27",
@@ -1351,7 +1411,8 @@
       "ihh",
       "testing",
       "api"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-28",
@@ -1372,7 +1433,8 @@
       "feedback",
       "ritme",
       "stage"
-    ]
+    ],
+    "category": "lessons learned"
   },
   {
     "id": "2026-04-29",
@@ -1395,7 +1457,8 @@
       "ibo",
       "early-bound",
       "learning"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-04-30",
@@ -1418,7 +1481,8 @@
       "codekwaliteit",
       "overleg",
       "focus"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-05-01",
@@ -1434,7 +1498,8 @@
     "tags": [
       "feestdag",
       "geen-werk"
-    ]
+    ],
+    "category": "reflectie"
   },
   {
     "id": "2026-05-04",
@@ -1457,7 +1522,8 @@
       "import",
       "hosting",
       "multitask"
-    ]
+    ],
+    "category": "deployment"
   },
   {
     "id": "2026-05-05",
@@ -1480,7 +1546,8 @@
       "plugins",
       "data",
       "prioriteiten"
-    ]
+    ],
+    "category": "klantwerk"
   },
   {
     "id": "2026-05-06",
@@ -1503,7 +1570,8 @@
       "familiehulp",
       "deployment",
       "checks"
-    ]
+    ],
+    "category": "deployment"
   },
   {
     "id": "2026-05-07",
@@ -1526,6 +1594,145 @@
       "plugins",
       "import",
       "vooruitgang"
+    ],
+    "category": "klantwerk"
+  },
+  {
+    "id": "2026-05-08",
+    "title": "Intervisie op school en terug naar Return",
+    "date": "vrijdag 8 mei 2026",
+    "excerpt": "Tijdens een intervisiemoment op school deelde ik mijn stage-ervaringen en rondde ik daarna bij Return mijn taken en de weekly af.",
+    "category": "reflectie",
+    "content": [
+      "Vandaag hadden we een intervisiemoment op school. We moesten onze stage-ervaring toelichten aan medestudenten en ook enkele leuke of opvallende momenten delen.",
+      "Dat was best interessant. Het was fijn om te horen hoe anders stages kunnen verlopen wanneer studenten in andere sectoren of bedrijven terechtkomen. Daardoor kon ik mijn eigen traject bij Return ook beter in perspectief plaatsen.",
+      "Na de middag ben ik opnieuw naar Return gegaan om mijn taken voor die dag af te ronden. Later hadden we ook onze weekly meeting, zoals elke vrijdag.",
+      "Het was dus een dag met zowel reflectie op school als gewone voortgang op kantoor. Die combinatie maakte het nuttig en afwisselend."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "school",
+      "intervisie",
+      "reflectie",
+      "weekly",
+      "team"
+    ]
+  },
+  {
+    "id": "2026-05-11",
+    "title": "Eerste webresources voor Familiehulp",
+    "date": "maandag 11 mei 2026",
+    "excerpt": "Voor Familiehulp kreeg ik vijf nieuwe taken, deze keer rond JavaScript-webresources in plaats van plugins.",
+    "category": "power platform",
+    "content": [
+      "Vandaag kreeg ik vijf nieuwe taken voor Familiehulp, maar deze keer moest ik webresources bouwen in plaats van plugins.",
+      "De bedoeling was om bepaalde velden te verbergen of opnieuw zichtbaar te maken afhankelijk van de ingevulde waarden. Soms ging het om de vraag of een veld leeg was, soms om een specifieke waarde die een andere flow moest activeren.",
+      "Daarna moest ik de webresources registreren via XrmToolBox met de tool Webresource Registration. Dat was de eerste keer dat ik die tool echt in de praktijk gebruikte.",
+      "Het voelde opnieuw als een goede stap vooruit in Power Platform, omdat ik naast plugins nu ook beter begin te begrijpen hoe client-side logica in Dynamics wordt opgezet."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "webresources",
+      "javascript",
+      "xrmtoolbox",
+      "code"
+    ]
+  },
+  {
+    "id": "2026-05-12",
+    "title": "Webresources afronden en een duidelijke pluginles",
+    "date": "dinsdag 12 mei 2026",
+    "excerpt": "Ik werkte de webresources verder af, kreeg reviewfeedback en leerde door een fout waarom pre-images correct gebruikt moeten worden.",
+    "category": "lessons learned",
+    "content": [
+      "Vandaag heb ik verder gewerkt aan de webresources van gisteren. Voordat ik ze registreerde, heb ik de code eerst laten controleren door Mucahid.",
+      "Hij had nog enkele opmerkingen, maar in grote lijnen zat de aanpak goed. Na het testen heb ik de code gepusht.",
+      "Later kreeg ik feedback op een plugin die ik vorige week had gemaakt. Daarin had ik een domme fout gemaakt: ik had een pre-image geregistreerd, maar gebruikte die niet. In plaats daarvan deed ik nog een Retrieve(), wat overbodig is en net vermeden moet worden.",
+      "Mucahid was daar terecht niet blij mee. Het was een oprechte fout, maar wel een belangrijke les. In de toekomst ga ik zulke stukken bewuster nakijken, zeker wanneer performance en pluginbest practices meespelen."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "familiehulp",
+      "webresources",
+      "code-review",
+      "pre-image",
+      "fails",
+      "lessons-learned"
+    ]
+  },
+  {
+    "id": "2026-05-13",
+    "title": "Custom API, HTML webresource en veel hulp",
+    "date": "woensdag 13 mei 2026",
+    "excerpt": "Een grote nieuwe taak rond custom API-logica en HTML webresources bracht veel nieuwe concepten samen.",
+    "category": "power platform",
+    "content": [
+      "Vandaag kreeg ik een grote nieuwe taak: een plugin bouwen met een custom API en een HTML webresource. Ik had dat nog nooit gezien, dus in het begin was ik behoorlijk in de war.",
+      "Daarom heb ik hulp gevraagd aan mijn collega's. Turab legde mij eerst de theorie uit, en Talha toonde daarna stap voor stap hoe je een custom API en een HTML webresource aanmaakt.",
+      "Het verschil met een gewone plugin werd daardoor duidelijker. Een gewone plugin hangt meestal aan standaardberichten zoals create, update of delete. Met een custom API kun je zelf een message triggeren, bijvoorbeeld wanneer iemand op een ribbon button klikt.",
+      "Een HTML webresource is eigenlijk een stuk HTML dat je binnen Dynamics kunt tonen of gebruiken, bijvoorbeeld als extra scherm of tabelachtige interface.",
+      "Uiteindelijk kon ik de taak werkend krijgen met hulp van Talha. Toevallig had ik geen custom API maar een custom process/action gemaakt. Dat lijkt sterk op dezelfde aanpak, maar vraagt enkele extra stappen. Mucahid zei dat dit geen probleem was, dus heb ik alles geregistreerd in XrmToolBox en getest."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "custom-api",
+      "html-webresource",
+      "xrmtoolbox",
+      "familiehulp",
+      "lessons-learned"
+    ]
+  },
+  {
+    "id": "2026-05-14",
+    "title": "Feestdag",
+    "date": "donderdag 14 mei 2026",
+    "excerpt": "Vandaag was het een feestdag en hoefden we niet te werken.",
+    "category": "reflectie",
+    "content": [
+      "Vandaag was het een feestdag, dus mochten we thuis blijven."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "feestdag",
+      "geen-werk"
+    ]
+  },
+  {
+    "id": "2026-05-15",
+    "title": "Laatste stagedag en aangenomen als jobstudent",
+    "date": "vrijdag 15 mei 2026",
+    "excerpt": "Mijn stage eindigde rustig, met nog wat IHH-werk, een korte weekly en heel mooi nieuws: ik mag bij Return blijven als jobstudent.",
+    "category": "wins",
+    "content": [
+      "Vandaag was mijn laatste stagedag. Het was een rustige dag met nog enkele kleine taken hier en daar.",
+      "Ik heb vooral nog aan IHH gewerkt, meer bepaald aan een feature om WhatsApp-berichten te sturen naar donors wanneer hun donatie volledig afgerond is.",
+      "We hadden ook onze weekly meeting. Die was vrij kort, omdat veel mensen afwezig waren door de brugdag, maar dat maakte niet zoveel uit.",
+      "Het mooiste moment van de dag was dat Mucahid mij vertelde dat ik aangenomen ben bij Return als jobstudent. Daarnaast kreeg ik ook nog een bonus voor mijn prestaties bij Familiehulp.",
+      "Ik was daar heel blij mee. De rest van de dag voelde daardoor een beetje als een afsluiting en viering tegelijk.",
+      "Zo eindigt mijn stage bij Return. Het was een enorm leerrijk avontuur dat ik niet snel zal vergeten, en ik ben blij dat dit traject niet helemaal stopt maar verdergaat als jobstudent."
+    ],
+    "images": [
+      "/images/posts/return-logo.png"
+    ],
+    "tags": [
+      "laatste-stagedag",
+      "ihh",
+      "whatsapp",
+      "weekly",
+      "wins",
+      "jobstudent",
+      "reflectie"
     ]
   }
 ]
