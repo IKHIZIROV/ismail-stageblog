@@ -1,14 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">IK monogram</title>
-  <desc id="desc">Abstract overlapping monogram logo for Ismail Khizirov.</desc>
-  <rect width="512" height="512" rx="112" fill="#FDEDD6" />
-  <circle cx="380" cy="156" r="82" fill="#02A7EF" />
-  <path d="M116 104h96c29 0 52 23 52 52v200c0 29-23 52-52 52h-96V104Z" fill="#1FDEB8" />
-  <path d="M224 254 376 104h86L316 253l154 155h-92L224 254Z" fill="#2664E4" />
-  <path d="M178 236h214c37 0 67 30 67 67s-30 67-67 67H178c-37 0-67-30-67-67s30-67 67-67Z" fill="#7447F0" />
-  <path d="M250 236h86v134h-86z" fill="#FD7B54" />
-  <path d="M164 104h60v304h-60z" fill="#17264A" opacity=".08" />
-  <rect x="164" y="104" width="78" height="304" rx="34" fill="#1FDEB8" />
-  <path d="M252 286h136c12 0 22 10 22 22s-10 22-22 22H252v-44Z" fill="#FDEDD6" />
-  <path d="M334 182h82c12 0 22 10 22 22s-10 22-22 22h-82v-44Z" fill="#FDEDD6" />
+  <title id="title">Graduation cap logo</title>
+  <desc id="desc">Colorful graduation cap icon for the stageblog logo and browser tab icon.</desc>
+  <defs>
+    <linearGradient id="capTop" x1="122" y1="186" x2="424" y2="284" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1FDEB8" />
+      <stop offset="0.54" stop-color="#02A7EF" />
+      <stop offset="1" stop-color="#2664E4" />
+    </linearGradient>
+    <linearGradient id="capBase" x1="152" y1="282" x2="371" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7447F0" />
+      <stop offset="0.55" stop-color="#6547F0" />
+      <stop offset="1" stop-color="#2664E4" />
+    </linearGradient>
+    <linearGradient id="tassel" x1="394" y1="268" x2="438" y2="405" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FD7B54" />
+      <stop offset="1" stop-color="#FC9960" />
+    </linearGradient>
+    <filter id="softShadow" x="48" y="86" width="416" height="344" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="22" flood-color="#17264A" flood-opacity="0.18" stdDeviation="18" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="#FDEDD6" />
+  <circle cx="101" cy="94" r="38" fill="#F8E4C4" opacity="0.8" />
+  <circle cx="430" cy="116" r="56" fill="#F8E4C4" opacity="0.72" />
+  <circle cx="103" cy="413" r="72" fill="#F8E4C4" opacity="0.56" />
+  <g filter="url(#softShadow)">
+    <path
+      d="M150 251h212v82c0 20-12 38-35 51-24 13-56 20-91 20s-67-7-91-20c-23-13-35-31-35-51v-82h40Z"
+      fill="url(#capBase)"
+    />
+    <path
+      d="M110 235c-26-15-26-52 0-67l120-69c16-9 37-9 53 0l120 69c26 15 26 52 0 67l-120 69c-16 9-37 9-53 0L110 235Z"
+      fill="url(#capTop)"
+    />
+    <path
+      d="M150 253 230 304c16 10 37 10 53 1l79-45v25c-42 26-96 33-143 19l-69-42v-9Z"
+      fill="#17264A"
+      opacity="0.1"
+    />
+    <path
+      d="M412 239c0-8 6-14 14-14s14 6 14 14v90h-28v-90Z"
+      fill="url(#tassel)"
+    />
+    <circle cx="426" cy="337" r="25" fill="url(#tassel)" />
+    <path
+      d="M406 359c3-14 15-24 20-24s17 10 20 24l13 51c5 20-10 38-33 38s-38-18-33-38l13-51Z"
+      fill="url(#tassel)"
+    />
+  </g>
 </svg>
