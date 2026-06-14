@@ -19,7 +19,6 @@ function AboutPage() {
             <h2 className="mt-5 text-2xl font-semibold text-brand-navy">Ismail Khizirov</h2>
             <p className="mt-2 font-medium text-brand-muted">Graduate Programming Student - AP Hogeschool</p>
             <div className="mt-6 space-y-2 text-sm text-brand-muted">
-              <p>Adres: Jan Moorkensstraat 12, 2600 Berchem</p>
               <p>Telefoon: 0471 65 04 47</p>
               <p>E-mail: ismailkhizirov@gmail.com</p>
               <p>
